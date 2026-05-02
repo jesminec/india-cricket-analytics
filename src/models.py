@@ -55,7 +55,7 @@ def build_logistic(C: float = 1.0, random_state: int = 42) -> Pipeline:
     """L2-regularised logistic regression with standard scaling."""
     return Pipeline([
         ("scaler", StandardScaler()),
-        ("clf", LogisticRegression(C=C, penalty="l2", solver="lbfgs",
+        ("clf", LogisticRegression(C=C, solver="lbfgs",
                                    max_iter=1000, random_state=random_state)),
     ])
 

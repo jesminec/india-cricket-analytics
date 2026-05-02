@@ -1,0 +1,999 @@
+match_id,start_date,venue,venue_type,era_label,win_loss_flag,format,india_runs,india_balls,india_sr,india_boundaries,india_bat_first,india_first_innings_score,india_bowl_econ,india_bowl_wkts,india_dbp
+64814,2002-12-29,"McLean Park, Napier",Away,Early 2000s,0.0,ODI,202,262,77.1,21,0,0,5.08,9,0.5133
+64815,2003-01-01,"Jade Stadium, Christchurch",Away,Early 2000s,0.0,ODI,86,247,34.82,10,1,86,4.062,5,0.677
+64816,2003-01-04,"Davies Park, Queenstown",Away,Early 2000s,0.0,ODI,104,262,39.69,11,1,104,4.792,3,0.7013
+64817,2003-01-08,"Westpac Stadium, Wellington",Away,Early 2000s,1.0,ODI,146,260,56.15,21,0,0,3.938,10,0.6875
+64819,2003-01-14,"Westpac Park, Hamilton",Away,Early 2000s,0.0,ODI,108,269,40.15,15,1,108,4.36,4,0.6744
+64882,2004-03-16,Rawalpindi Cricket Stadium,Away,Early 2000s,0.0,ODI,280,292,95.89,33,0,0,6.58,6,0.4467
+64883,2004-03-19,Arbab Niaz Stadium,Away,Early 2000s,0.0,ODI,211,300,70.33,29,1,211,5.218,6,0.5387
+64884,2004-03-21,Gaddafi Stadium,Away,Early 2000s,1.0,ODI,257,270,95.19,35,0,0,5.86,9,0.46
+64885,2004-03-24,Gaddafi Stadium,Away,Early 2000s,1.0,ODI,277,300,92.33,33,1,277,5.289,10,0.4704
+64914,2004-12-23,MA Aziz Stadium,Away,Early 2000s,1.0,ODI,227,300,75.67,25,1,227,4.68,8,0.6
+64917,2004-12-27,Bangabandhu National Stadium,Away,Early 2000s,1.0,ODI,337,300,112.33,43,1,337,5.14,9,0.57
+64939,2005-04-05,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Home,Early 2000s,1.0,ODI,345,300,115.0,43,1,345,6.747,10,0.4528
+64941,2005-04-12,"Sardar Patel (Gujarat) Stadium, Motera",Home,Early 2000s,0.0,ODI,276,288,95.83,33,1,276,6.646,7,0.3611
+64942,2005-04-15,Green Park,Home,Early 2000s,0.0,ODI,233,300,77.67,25,1,233,5.976,5,0.6443
+64943,2005-04-17,Arun Jaitley Stadium,Home,Early 2000s,0.0,ODI,134,222,60.36,14,0,0,6.06,8,0.4333
+65032,2004-09-01,Trent Bridge,Away,Early 2000s,0.0,ODI,156,263,59.32,16,1,156,5.289,3,0.6753
+65033,2004-09-03,Kennington Oval,Away,Early 2000s,0.0,ODI,210,279,75.27,29,0,0,6.14,5,0.5733
+65034,2004-09-05,Lord's,Away,Early 2000s,1.0,ODI,185,297,62.29,12,1,185,3.745,10,0.6414
+65241,2003-02-12,"Boland Bank Park, Paarl",Away,Early 2000s,1.0,ODI,193,293,65.87,14,1,193,2.833,10,0.7153
+65244,2003-02-15,"SuperSport Park, Centurion",Away,Early 2000s,0.0,ODI,109,250,43.6,12,1,109,5.731,1,0.5448
+65250,2003-02-19,Harare Sports Club,Away,Early 2000s,1.0,ODI,238,299,79.6,23,1,238,3.851,10,0.5634
+65257,2003-02-23,"City Oval, Pietermaritzburg",Away,Early 2000s,1.0,ODI,295,300,98.33,33,1,295,3.059,10,0.749
+65262,2003-02-26,"Kingsmead, Durban",Away,Early 2000s,1.0,ODI,233,300,77.67,27,1,233,3.692,10,0.6886
+65268,2003-03-01,"SuperSport Park, Centurion",Away,Early 2000s,1.0,ODI,248,274,90.51,32,0,0,5.438,7,0.4749
+65276,2003-03-07,"Newlands, Cape Town",Away,Early 2000s,1.0,ODI,210,287,73.17,25,0,0,4.5,6,0.5467
+65278,2003-03-10,"New Wanderers Stadium, Johannesburg",Away,Early 2000s,1.0,ODI,269,300,89.67,26,1,269,4.739,10,0.6884
+65281,2003-03-14,"SuperSport Park, Centurion",Away,Early 2000s,1.0,ODI,140,244,57.38,18,0,0,3.232,10,0.69
+65285,2003-03-20,"Kingsmead, Durban",Away,Early 2000s,1.0,ODI,259,300,86.33,21,1,259,3.863,10,0.6763
+65286,2003-03-23,"New Wanderers Stadium, Johannesburg",Away,Early 2000s,0.0,ODI,213,235,90.64,25,0,0,7.204,2,0.4214
+65643,2004-01-09,Melbourne Cricket Ground,Away,Early 2000s,0.0,ODI,249,294,84.69,22,0,0,5.938,10,0.5258
+65645,2004-01-14,Bellerive Oval,Away,Early 2000s,1.0,ODI,194,225,86.22,22,0,0,4.16,6,0.5867
+65647,2004-01-18,Brisbane Cricket Ground,Away,Early 2000s,1.0,ODI,288,300,96.0,24,1,288,5.718,10,0.4362
+65648,2004-01-20,Brisbane Cricket Ground,Away,Early 2000s,1.0,ODI,245,300,81.67,18,1,245,4.898,10,0.53
+65649,2004-01-22,Sydney Cricket Ground,Away,Early 2000s,1.0,ODI,288,300,96.0,30,1,288,6.65,8,0.4581
+65653,2004-02-01,W.A.C.A. Ground,Away,Early 2000s,0.0,ODI,177,294,60.2,20,1,177,6.375,5,0.5677
+65655,2004-02-06,Melbourne Cricket Ground,Away,Early 2000s,0.0,ODI,210,294,71.43,20,1,210,5.577,3,0.5519
+65656,2004-02-08,Sydney Cricket Ground,Away,Early 2000s,0.0,ODI,138,200,69.0,21,0,0,7.18,5,0.4033
+65716,2004-07-27,R.Premadasa Stadium,Away,Early 2000s,1.0,ODI,251,300,83.67,25,1,251,5.34,9,0.4967
+65718,2004-08-01,R.Premadasa Stadium,Away,Early 2000s,0.0,ODI,178,300,59.33,16,0,0,4.56,9,0.5367
+66198,2004-09-11,The Rose Bowl,Away,Early 2000s,1.0,ODI,274,300,91.33,28,1,274,3.84,7,0.6567
+66207,2004-09-19,Edgbaston,Away,Early 2000s,0.0,ODI,176,299,58.86,11,1,176,4.074,7,0.6047
+66284,2002-06-29,"Lord's, London",Away,Early 2000s,1.0,ODI,253,293,86.35,28,0,0,5.42,7,0.43
+66356,2003-04-21,"Bangabandhu National Stadium, Dhaka",Away,Early 2000s,1.0,ODI,37,103,35.92,4,1,37,,0,
+66364,2003-10-23,"MA Chidambaram Stadium, Chepauk, Chennai",Home,Early 2000s,1.0,ODI,137,161,85.09,20,1,137,,0,
+66365,2003-10-26,"Captain Roop Singh Stadium, Gwalior",Away,Early 2000s,1.0,ODI,269,300,89.67,30,1,269,4.92,9,0.4733
+66367,2003-11-01,"Wankhede Stadium, Mumbai",Home,Early 2000s,0.0,ODI,202,278,72.66,26,0,0,5.699,8,0.5184
+66369,2003-11-06,"Barabati Stadium, Cuttack",Home,Early 2000s,0.0,ODI,238,300,79.33,25,1,238,5.242,6,0.5368
+66372,2003-11-15,"Lal Bahadur Shastri Stadium, Hyderabad, Deccan",Home,Early 2000s,1.0,ODI,340,300,113.33,44,1,340,4.426,10,0.6135
+66374,2004-08-21,VRA Cricket Ground,Away,Early 2000s,0.0,ODI,122,162,75.31,9,0,0,5.818,6,0.4646
+66375,2004-08-23,VRA Cricket Ground,Away,Early 2000s,0.0,ODI,0,0,,0,0,0,5.526,7,0.4526
+214742,2005-07-31,Rangiri Dambulla International Stadium,Away,Early 2000s,1.0,ODI,156,216,72.22,23,0,0,3.734,10,0.6364
+217481,2005-08-29,Harare Sports Club,Away,Early 2000s,1.0,ODI,208,299,69.57,21,1,208,2.653,10,0.8163
+217979,2005-09-04,Harare Sports Club,Away,Early 2000s,1.0,ODI,242,289,83.74,24,0,0,5.0,10,0.6267
+218250,2005-09-06,Harare Sports Club,Away,Early 2000s,0.0,ODI,254,297,85.52,31,1,254,5.772,4,0.5087
+223018,2005-10-25,Vidarbha C.A. Ground,Home,Early 2000s,1.0,ODI,337,300,112.33,42,1,337,5.551,10,0.6028
+223334,2005-10-28,"Punjab Cricket Association IS Bindra Stadium, Mohali",Home,Early 2000s,1.0,ODI,116,122,95.08,17,0,0,3.421,10,0.6869
+223902,2005-11-03,Nehru Stadium,Away,Early 2000s,1.0,ODI,254,274,92.7,28,0,0,5.237,10,0.5284
+224231,2005-11-06,"Sardar Patel (Gujarat) Stadium, Motera",Home,Early 2000s,0.0,ODI,268,300,89.33,27,1,268,6.0,5,0.486
+224556,2005-11-09,Madhavrao Scindia Cricket Ground,Away,Early 2000s,1.0,ODI,186,209,89.0,28,0,0,4.576,10,0.6342
+225437,2005-11-12,Reliance Stadium,Away,Early 2000s,1.0,ODI,233,237,98.31,35,0,0,4.88,9,0.6
+225959,2005-11-16,"Rajiv Gandhi International Stadium, Uppal",Home,Early 2000s,0.0,ODI,238,300,79.33,29,1,238,5.16,5,0.5563
+226359,2005-11-28,Wankhede Stadium,Home,Early 2000s,1.0,ODI,212,285,74.39,30,0,0,4.42,6,0.5233
+235831,2006-02-06,Arbab Niaz Stadium,Away,Early 2000s,1.0,ODI,312,298,104.7,45,1,312,6.617,7,0.4929
+236520,2006-02-11,Rawalpindi Cricket Stadium,Away,Early 2000s,1.0,ODI,252,259,97.3,34,0,0,5.372,10,0.527
+236809,2006-02-13,Gaddafi Stadium,Away,Early 2000s,1.0,ODI,270,286,94.41,44,0,0,5.76,8,0.51
+237222,2006-02-16,Multan Cricket Stadium,Away,Early 2000s,1.0,ODI,154,195,78.97,27,0,0,3.849,10,0.6653
+237571,2006-02-19,National Stadium,Away,Early 2000s,1.0,ODI,272,281,96.8,36,0,0,5.739,8,0.4916
+238188,2006-03-28,Feroz Shah Kotla,Home,Early 2000s,1.0,ODI,182,280,65.0,25,1,182,4.297,10,0.7031
+238189,2006-03-31,Nahar Singh Stadium,Away,Early 2000s,1.0,ODI,209,293,71.33,24,0,0,4.535,10,0.5485
+238190,2006-04-03,"Nehru Stadium, Fatorda",Away,Early 2000s,1.0,ODI,275,300,91.67,33,1,275,5.017,10,0.5461
+238193,2006-04-12,Keenan Stadium,Away,Early 2000s,0.0,ODI,205,288,71.18,24,1,205,5.32,6,0.5977
+238194,2006-04-15,Maharani Usharaje Trust Cricket Ground,Away,Early 2000s,1.0,ODI,272,295,92.2,31,0,0,5.779,10,0.5351
+239916,2006-05-20,"Sabina Park, Kingston",Away,Early 2000s,0.0,ODI,180,298,60.4,15,0,0,3.96,9,0.6167
+239917,2006-05-23,"Warner Park, Basseterre",Away,Early 2000s,0.0,ODI,229,300,76.33,19,1,229,4.977,6,0.5418
+239918,2006-05-26,"Queen's Park Oval, Port of Spain",Away,Early 2000s,0.0,ODI,201,300,67.0,20,1,201,4.955,4,0.625
+239919,2006-05-28,"Queen's Park Oval, Port of Spain",Away,Early 2000s,0.0,ODI,216,288,75.0,22,0,0,5.1,6,0.4867
+244510,2006-04-18,Sheikh Zayed Stadium,Away,Early 2000s,0.0,ODI,189,300,63.0,14,1,189,4.144,4,0.6254
+244511,2006-04-19,Sheikh Zayed Stadium,Away,Early 2000s,1.0,ODI,261,300,87.0,30,1,261,4.809,10,0.5404
+247464,2007-03-17,"Queen's Park Oval, Port of Spain",Away,Early 2000s,0.0,ODI,175,297,58.92,15,1,175,3.959,5,0.6838
+247468,2007-03-19,"Queen's Park Oval, Port of Spain",Away,Early 2000s,1.0,ODI,378,298,126.85,47,1,378,3.614,10,0.722
+247476,2007-03-23,"Queen's Park Oval, Port of Spain",Away,Early 2000s,0.0,ODI,177,261,67.82,18,0,0,5.08,6,0.5133
+249211,2006-11-22,Kingsmead,Away,Early 2000s,0.0,ODI,88,175,50.29,13,0,0,4.96,8,0.5433
+249212,2006-11-26,Newlands,Away,Early 2000s,0.0,ODI,163,249,65.46,19,0,0,5.48,7,0.5833
+249213,2006-11-29,St George's Park,Away,Early 2000s,0.0,ODI,151,229,65.94,23,0,0,4.86,8,0.5233
+249214,2006-12-03,SuperSport Park,Away,Early 2000s,0.0,ODI,187,300,62.33,21,1,187,6.415,1,0.516
+249745,2006-10-15,Sawai Mansingh Stadium,Home,Early 2000s,1.0,ODI,107,177,60.45,17,0,0,3.378,10,0.7252
+249753,2006-10-26,"Sardar Patel Stadium, Motera",Home,Early 2000s,0.0,ODI,208,300,69.33,22,1,208,4.51,7,0.604
+249756,2006-10-29,"Punjab Cricket Association Stadium, Mohali",Home,Early 2000s,0.0,ODI,231,300,77.0,27,1,231,5.518,4,0.5803
+256607,2006-09-14,Kinrara Academy Oval,Away,Early 2000s,1.0,ODI,277,300,92.33,34,1,277,7.05,2,0.625
+256608,2006-09-16,Kinrara Academy Oval,Away,Early 2000s,0.0,ODI,27,48,56.25,4,0,0,4.946,10,0.5574
+256612,2006-09-20,Kinrara Academy Oval,Away,Early 2000s,1.0,ODI,140,237,59.07,16,1,140,3.561,10,0.7114
+256614,2006-09-22,Kinrara Academy Oval,Away,Early 2000s,0.0,ODI,168,262,64.12,13,0,0,4.422,10,0.6125
+256665,2006-08-18,Sinhalese Sports Club Ground,Away,Early 2000s,1.0,ODI,11,22,50.0,2,1,11,,0,
+258471,2007-08-21,The Rose Bowl,Away,Early 2000s,0.0,ODI,164,300,54.67,13,0,0,5.76,2,0.44
+258472,2007-08-24,County Ground,Away,Early 2000s,1.0,ODI,304,300,101.33,43,1,304,6.4,8,0.5467
+258473,2007-08-27,Edgbaston,Away,Early 2000s,0.0,ODI,224,289,77.51,26,0,0,5.62,8,0.4667
+258474,2007-08-30,Old Trafford,Away,Early 2000s,0.0,ODI,199,298,66.78,24,1,199,4.438,7,0.6528
+258475,2007-09-02,Headingley,Away,Early 2000s,1.0,ODI,307,301,101.99,47,1,307,6.205,8,0.4274
+258476,2007-09-05,Kennington Oval,Away,Early 2000s,1.0,ODI,299,298,100.34,41,0,0,6.32,6,0.5033
+258477,2007-09-08,Lord's,Away,Early 2000s,0.0,ODI,175,285,61.4,17,1,175,5.174,3,0.6376
+267708,2007-01-27,"MA Chidambaram Stadium, Chepauk",Home,Early 2000s,0.0,ODI,239,288,82.99,26,1,239,6.183,7,0.5534
+267709,2007-01-31,Indian Petrochemicals Corporation Limited Sports Complex Ground,Away,Early 2000s,1.0,ODI,314,300,104.67,36,1,314,4.344,10,0.608
+267710,2007-02-08,Eden Gardens,Home,Early 2000s,0.0,ODI,0,0,,0,0,0,5.564,3,0.6727
+267712,2007-02-11,Madhavrao Scindia Cricket Ground,Away,Early 2000s,0.0,ODI,230,300,76.67,23,0,0,5.14,8,0.5467
+267713,2007-02-17,Andhra Cricket Association-Visakhapatnam District Cricket Association Stadium,Home,Early 2000s,1.0,ODI,252,245,102.86,37,0,0,5.511,7,0.5213
+267715,2007-02-14,"Nehru Stadium, Fatorda",Away,Early 2000s,1.0,ODI,219,278,78.78,23,0,0,4.6,8,0.58
+275789,2007-08-16,Titwood,Away,Early 2000s,1.0,ODI,202,239,84.52,28,0,0,4.413,9,0.6304
+282688,2007-05-10,Shere Bangla National Stadium,Away,Early 2000s,1.0,ODI,240,276,86.96,26,0,0,5.319,7,0.5106
+282689,2007-05-12,Shere Bangla National Stadium,Away,Early 2000s,1.0,ODI,262,294,89.12,27,1,262,4.857,9,0.6054
+291359,2008-02-03,"Brisbane Cricket Ground, Woolloongabba",Away,Transition Era,1.0,ODI,181,270,67.04,16,1,181,6.955,3,0.6818
+291360,2008-02-05,"Brisbane Cricket Ground, Woolloongabba",Away,Transition Era,1.0,ODI,260,300,86.67,22,1,260,,0,
+291362,2008-02-10,Melbourne Cricket Ground,Away,Transition Era,1.0,ODI,153,275,55.64,12,0,0,3.683,10,0.6255
+291365,2008-02-17,Adelaide Oval,Away,Transition Era,0.0,ODI,142,248,57.26,12,0,0,4.06,9,0.5667
+291366,2008-02-19,Adelaide Oval,Away,Transition Era,1.0,ODI,215,295,72.88,18,0,0,4.76,6,0.49
+291368,2008-02-24,Sydney Cricket Ground,Away,Transition Era,0.0,ODI,272,295,92.2,28,0,0,6.319,7,0.4053
+291369,2008-02-26,Bellerive Oval,Away,Transition Era,1.0,ODI,176,194,90.72,22,0,0,3.795,10,0.6678
+291371,2008-03-02,Sydney Cricket Ground,Away,Transition Era,1.0,ODI,228,275,82.91,22,0,0,4.78,8,0.52
+291372,2008-03-04,"Brisbane Cricket Ground, Woolloongabba",Away,Transition Era,1.0,ODI,241,300,80.33,19,1,241,5.013,10,0.5336
+293071,2007-06-23,"Civil Service Cricket Club, Stormont",Away,Early 2000s,0.0,ODI,157,209,75.12,17,0,0,3.86,10,0.66
+293076,2007-06-26,"Civil Service Cricket Club, Stormont",Away,Early 2000s,0.0,ODI,229,300,76.33,23,1,229,4.949,6,0.5185
+293077,2007-06-29,"Civil Service Cricket Club, Stormont",Away,Early 2000s,1.0,ODI,218,295,73.9,25,0,0,4.52,6,0.5667
+293078,2007-07-01,"Civil Service Cricket Club, Stormont",Away,Early 2000s,1.0,ODI,142,182,78.02,19,0,0,4.774,7,0.5376
+297793,2007-09-29,M Chinnaswamy Stadium,Home,Early 2000s,0.0,ODI,4,16,25.0,1,0,0,6.14,7,0.4733
+297794,2007-10-02,Nehru Stadium,Away,Early 2000s,0.0,ODI,195,285,68.42,21,0,0,6.12,6,0.4733
+297795,2007-10-05,"Rajiv Gandhi International Stadium, Uppal",Home,Early 2000s,0.0,ODI,230,286,80.42,27,0,0,5.8,7,0.47
+297796,2007-10-08,Sector 16 Stadium,Away,Early 2000s,1.0,ODI,252,300,84.0,32,1,252,5.66,7,0.4633
+297797,2007-10-11,Reliance Stadium,Away,Early 2000s,0.0,ODI,128,238,53.78,18,1,128,5.768,1,0.5355
+297798,2007-10-14,Vidarbha Cricket Association Ground,Home,Early 2000s,0.0,ODI,279,300,93.0,36,0,0,6.34,8,0.4967
+297799,2007-10-17,Wankhede Stadium,Home,Early 2000s,1.0,ODI,159,276,57.61,21,0,0,4.573,10,0.6815
+297801,2007-11-05,Nehru Stadium,Away,Early 2000s,1.0,ODI,224,282,79.43,33,0,0,4.78,7,0.5167
+297802,2007-11-08,"Punjab Cricket Association Stadium, Mohali",Home,Early 2000s,0.0,ODI,279,298,93.62,32,1,279,6.462,6,0.4281
+297803,2007-11-11,Green Park,Home,Early 2000s,1.0,ODI,265,300,88.33,28,1,265,5.239,10,0.5352
+297804,2007-11-15,Captain Roop Singh Stadium,Away,Early 2000s,1.0,ODI,246,279,88.17,31,0,0,5.1,6,0.4833
+297805,2007-11-18,Sawai Mansingh Stadium,Home,Early 2000s,0.0,ODI,260,298,87.25,27,0,0,6.12,6,0.4433
+335349,2008-06-25,National Stadium,Away,Transition Era,1.0,ODI,365,300,121.67,47,1,365,3.204,10,0.7647
+335351,2008-06-26,National Stadium,Away,Transition Era,1.0,ODI,286,253,113.04,37,0,0,5.98,5,0.4333
+335352,2008-06-28,National Stadium,Away,Transition Era,1.0,ODI,266,260,102.31,32,0,0,5.66,6,0.5333
+335355,2008-07-02,National Stadium,Away,Transition Era,0.0,ODI,295,300,98.33,29,1,295,6.791,3,0.381
+335356,2008-07-03,National Stadium,Away,Transition Era,1.0,ODI,289,281,102.85,33,0,0,6.16,8,0.4267
+335358,2008-07-06,National Stadium,Away,Transition Era,0.0,ODI,170,237,71.73,23,0,0,5.478,10,0.4783
+343732,2008-08-18,Rangiri Dambulla International Stadium,Away,Transition Era,0.0,ODI,139,276,50.36,11,1,139,4.22,2,0.6029
+343733,2008-08-20,Rangiri Dambulla International Stadium,Away,Transition Era,1.0,ODI,132,238,55.46,15,0,0,3.688,10,0.684
+343734,2008-08-24,R Premadasa Stadium,Away,Transition Era,1.0,ODI,217,300,72.33,21,1,217,4.163,10,0.585
+343736,2008-08-29,R Premadasa Stadium,Away,Transition Era,0.0,ODI,96,159,60.38,13,0,0,4.54,6,0.5667
+345469,2008-06-10,Shere Bangla National Stadium,Away,Transition Era,1.0,ODI,292,300,97.33,34,1,292,5.327,10,0.5748
+345470,2008-06-12,Shere Bangla National Stadium,Away,Transition Era,1.0,ODI,218,211,103.32,27,0,0,4.47,10,0.4866
+345471,2008-06-14,Shere Bangla National Stadium,Away,Transition Era,0.0,ODI,270,290,93.1,29,0,0,6.3,4,0.4333
+361043,2008-11-14,Madhavrao Scindia Cricket Ground,Away,Transition Era,1.0,ODI,367,300,122.33,51,1,367,6.08,10,0.4779
+361044,2008-11-17,Maharani Usharaje Trust Cricket Ground,Away,Transition Era,1.0,ODI,274,300,91.33,32,1,274,5.064,10,0.5851
+361045,2008-11-20,Green Park,Home,Transition Era,0.0,ODI,190,240,79.17,24,0,0,4.948,10,0.5361
+361046,2008-11-23,M Chinnaswamy Stadium,Home,Transition Era,0.0,ODI,160,132,121.21,26,1,160,8.091,8,0.3333
+361047,2008-11-26,Barabati Stadium,Home,Transition Era,1.0,ODI,258,262,98.47,36,0,0,5.4,4,0.4633
+366341,2008-08-27,R Premadasa Stadium,Away,Transition Era,1.0,ODI,247,298,82.89,19,1,247,4.559,10,0.5771
+366623,2009-03-03,McLean Park,Away,Transition Era,1.0,ODI,269,228,117.98,32,1,269,5.786,9,0.4167
+366624,2009-03-11,Seddon Park,Away,Transition Era,0.0,ODI,188,141,133.33,26,0,0,5.745,5,0.4894
+366625,2009-03-14,Eden Park,Away,Transition Era,0.0,ODI,131,219,59.82,11,1,131,6.471,2,0.5643
+366626,2009-03-06,Westpac Stadium,Away,Transition Era,1.0,ODI,181,172,105.23,24,1,181,,0,
+366627,2009-03-08,AMI Stadium,Away,Transition Era,1.0,ODI,375,300,125.0,50,1,375,7.395,10,0.428
+377313,2009-06-26,"Sabina Park, Kingston",Away,Transition Era,1.0,ODI,317,300,105.67,34,1,317,6.623,10,0.4083
+377314,2009-06-28,"Sabina Park, Kingston",Away,Transition Era,0.0,ODI,172,290,59.31,17,1,172,5.62,2,0.4537
+377315,2009-07-03,"Beausejour Stadium, Gros Islet",Away,Transition Era,0.0,ODI,151,131,115.27,11,0,0,6.889,7,0.4136
+377316,2009-07-05,"Beausejour Stadium, Gros Islet",Away,Transition Era,0.0,ODI,0,0,,0,0,0,3.6,1,0.6444
+386530,2009-01-28,Rangiri Dambulla International Stadium,Away,Transition Era,1.0,ODI,230,289,79.58,19,0,0,4.92,7,0.5033
+386531,2009-01-31,R Premadasa Stadium,Away,Transition Era,1.0,ODI,246,300,82.0,24,1,246,4.885,10,0.4899
+386532,2009-02-03,R Premadasa Stadium,Away,Transition Era,1.0,ODI,353,300,117.67,47,1,353,5.184,10,0.516
+386533,2009-02-05,R Premadasa Stadium,Away,Transition Era,1.0,ODI,307,300,102.33,28,1,307,5.521,10,0.4931
+386534,2009-02-08,R Premadasa Stadium,Away,Transition Era,0.0,ODI,242,293,82.59,25,0,0,6.4,8,0.43
+403381,2009-09-12,R Premadasa Stadium,Away,Transition Era,0.0,ODI,152,224,67.86,17,0,0,6.14,6,0.4367
+403382,2009-09-11,R Premadasa Stadium,Away,Transition Era,1.0,ODI,152,243,62.55,18,0,0,3.333,10,0.6308
+403383,2009-09-14,R Premadasa Stadium,Away,Transition Era,1.0,ODI,299,300,99.67,25,1,299,5.85,10,0.4571
+415278,2009-09-26,SuperSport Park,Away,Transition Era,0.0,ODI,226,269,84.01,23,0,0,6.04,9,0.4467
+415281,2009-09-28,SuperSport Park,Away,Transition Era,0.0,ODI,0,0,,0,0,0,5.506,4,0.4235
+415284,2009-09-30,New Wanderers Stadium,Away,Transition Era,1.0,ODI,123,193,63.73,17,0,0,3.583,10,0.662
+416236,2009-10-25,Reliance Stadium,Away,Transition Era,0.0,ODI,264,300,88.0,33,0,0,5.84,8,0.4967
+416237,2009-10-28,"Vidarbha Cricket Association Stadium, Jamtha",Home,Transition Era,1.0,ODI,331,300,110.33,36,1,331,5.258,10,0.4845
+416238,2009-10-31,Feroz Shah Kotla,Home,Transition Era,1.0,ODI,207,290,71.38,20,0,0,4.58,5,0.4767
+416239,2009-11-02,"Punjab Cricket Association Stadium, Mohali",Home,Transition Era,0.0,ODI,199,280,71.07,27,0,0,5.068,10,0.473
+416240,2009-11-05,"Rajiv Gandhi International Stadium, Uppal",Home,Transition Era,0.0,ODI,330,298,110.74,41,0,0,7.0,4,0.3833
+416241,2009-11-08,Nehru Stadium,Away,Transition Era,0.0,ODI,161,288,55.9,19,1,161,4.112,4,0.6056
+430886,2009-12-15,Madhavrao Scindia Cricket Ground,Away,Transition Era,1.0,ODI,387,300,129.0,55,1,387,8.22,8,0.3167
+430887,2009-12-18,"Vidarbha Cricket Association Stadium, Jamtha",Home,Transition Era,0.0,ODI,290,300,96.67,31,1,290,6.142,7,0.3661
+430888,2009-12-21,Barabati Stadium,Home,Transition Era,1.0,ODI,227,255,89.02,33,0,0,5.391,10,0.5113
+430889,2009-12-24,Eden Gardens,Home,Transition Era,1.0,ODI,294,289,101.73,32,0,0,6.3,6,0.4567
+430890,2009-12-27,Feroz Shah Kotla,Home,Transition Era,0.0,ODI,0,0,,0,0,0,3.532,5,0.7021
+433558,2011-02-19,Shere Bangla National Stadium,Away,Transition Era,1.0,ODI,350,300,116.67,36,1,350,5.66,9,0.44
+433578,2011-03-06,M Chinnaswamy Stadium,Home,Transition Era,1.0,ODI,201,276,72.83,20,0,0,4.343,10,0.5664
+433582,2011-03-09,Feroz Shah Kotla,Home,Transition Era,1.0,ODI,187,219,85.39,29,0,0,4.05,10,0.6179
+433586,2011-03-12,"Vidarbha Cricket Association Stadium, Jamtha",Home,Transition Era,0.0,ODI,281,292,96.23,31,1,281,6.04,7,0.3893
+433599,2011-03-20,"MA Chidambaram Stadium, Chepauk",Home,Transition Era,1.0,ODI,252,295,85.42,25,1,252,4.372,10,0.5465
+433601,2011-03-24,"Sardar Patel Stadium, Motera",Home,Transition Era,1.0,ODI,240,286,83.92,24,0,0,5.2,6,0.4933
+433605,2011-03-30,"Punjab Cricket Association Stadium, Mohali",Home,Transition Era,1.0,ODI,242,300,80.67,30,1,242,4.635,10,0.5619
+433606,2011-04-02,Wankhede Stadium,Home,Transition Era,1.0,ODI,262,290,90.34,27,0,0,5.48,6,0.48
+434259,2010-01-05,Shere Bangla National Stadium,Away,Transition Era,0.0,ODI,257,299,85.95,30,1,257,5.896,5,0.4965
+434260,2010-01-07,Shere Bangla National Stadium,Away,Transition Era,1.0,ODI,275,285,96.49,26,0,0,5.92,6,0.5
+434262,2010-01-10,Shere Bangla National Stadium,Away,Transition Era,1.0,ODI,198,196,101.02,28,0,0,4.614,10,0.6137
+434263,2010-01-11,Shere Bangla National Stadium,Away,Transition Era,1.0,ODI,240,258,93.02,25,0,0,4.94,6,0.5667
+434264,2010-01-13,Shere Bangla National Stadium,Away,Transition Era,0.0,ODI,235,290,81.03,24,1,235,5.134,6,0.5223
+441827,2010-02-21,Sawai Mansingh Stadium,Home,Transition Era,1.0,ODI,278,300,92.67,31,1,278,5.94,10,0.48
+441828,2010-02-24,Captain Roop Singh Stadium,Away,Transition Era,1.0,ODI,392,300,130.67,53,1,392,5.79,10,0.5331
+441829,2010-02-27,"Sardar Patel Stadium, Motera",Home,Transition Era,0.0,ODI,266,267,99.63,27,0,0,7.3,2,0.34
+452146,2010-05-28,Queens Sports Club,Away,Transition Era,0.0,ODI,254,299,84.95,22,1,254,5.979,4,0.4207
+452147,2010-05-30,Queens Sports Club,Away,Transition Era,1.0,ODI,239,261,91.57,19,0,0,4.856,10,0.505
+452149,2010-06-03,Harare Sports Club,Away,Transition Era,0.0,ODI,180,300,60.0,12,1,180,5.139,3,0.5304
+452150,2010-06-05,Harare Sports Club,Away,Transition Era,0.0,ODI,256,300,85.33,27,1,256,5.586,4,0.5034
+455232,2010-06-16,Rangiri Dambulla International Stadium,Away,Transition Era,1.0,ODI,143,184,77.72,12,0,0,4.794,10,0.6364
+455234,2010-06-19,Rangiri Dambulla International Stadium,Away,Transition Era,1.0,ODI,247,299,82.61,20,0,0,5.394,10,0.4848
+455236,2010-06-22,Rangiri Dambulla International Stadium,Away,Transition Era,0.0,ODI,203,255,79.61,24,1,203,5.627,3,0.5511
+455237,2010-06-24,Rangiri Dambulla International Stadium,Away,Transition Era,1.0,ODI,249,300,83.0,25,1,249,4.187,10,0.6119
+456662,2010-08-10,Rangiri Dambulla International Stadium,Away,Transition Era,0.0,ODI,79,177,44.63,10,0,0,5.898,10,0.4744
+456663,2010-08-16,Rangiri Dambulla International Stadium,Away,Transition Era,1.0,ODI,153,207,73.91,17,0,0,3.682,10,0.6751
+456665,2010-08-25,Rangiri Dambulla International Stadium,Away,Transition Era,1.0,ODI,201,279,72.04,28,1,201,3.912,10,0.7403
+456666,2010-08-22,Rangiri Dambulla International Stadium,Away,Transition Era,0.0,ODI,95,202,47.03,13,1,95,6.857,2,0.6154
+456668,2010-08-28,Rangiri Dambulla International Stadium,Away,Transition Era,0.0,ODI,208,281,74.02,26,0,0,5.98,8,0.4667
+463150,2011-01-12,Kingsmead,Away,Transition Era,0.0,ODI,140,214,65.42,8,0,0,5.78,9,0.4033
+463151,2011-01-15,New Wanderers Stadium,Away,Transition Era,1.0,ODI,183,284,64.44,14,1,183,4.395,10,0.6047
+463152,2011-01-18,Newlands,Away,Transition Era,1.0,ODI,212,290,73.1,28,0,0,4.459,10,0.4595
+463153,2011-01-21,St George's Park,Away,Transition Era,0.0,ODI,138,197,70.05,13,0,0,5.3,7,0.4367
+463154,2011-01-23,SuperSport Park,Away,Transition Era,0.0,ODI,223,242,92.15,33,0,0,5.435,9,0.4094
+464529,2010-10-20,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Home,Transition Era,1.0,ODI,274,293,93.52,32,0,0,5.78,3,0.4267
+467883,2010-11-28,Nehru Stadium,Away,Transition Era,1.0,ODI,265,294,90.14,34,1,265,5.206,10,0.5404
+467884,2010-12-01,Sawai Mansingh Stadium,Home,Transition Era,1.0,ODI,251,258,97.29,30,0,0,5.16,8,0.4867
+467885,2010-12-04,Reliance Stadium,Away,Transition Era,1.0,ODI,219,237,92.41,28,0,0,4.48,9,0.5933
+467886,2010-12-07,M Chinnaswamy Stadium,Home,Transition Era,1.0,ODI,304,293,103.75,37,0,0,6.3,7,0.4667
+467887,2010-12-10,"MA Chidambaram Stadium, Chepauk",Home,Transition Era,1.0,ODI,100,127,78.74,15,0,0,3.815,10,0.6914
+474477,2011-09-03,Riverside Ground,Away,Transition Era,1.0,ODI,266,300,88.67,28,1,266,3.682,2,0.7727
+474478,2011-09-06,The Rose Bowl,Away,Transition Era,0.0,ODI,181,138,131.16,21,1,181,8.481,3,0.2556
+474479,2011-09-09,Kennington Oval,Away,Transition Era,1.0,ODI,217,300,72.33,22,1,217,5.211,7,0.4821
+474480,2011-09-11,Lord's,Away,Transition Era,1.0,ODI,262,300,87.33,32,1,262,5.529,8,0.4198
+474481,2011-09-16,Sophia Gardens,Away,Transition Era,1.0,ODI,286,300,95.33,25,1,286,7.454,4,0.3299
+489221,2011-06-06,"Queen's Park Oval, Port of Spain",Away,Transition Era,1.0,ODI,210,269,78.07,17,0,0,4.28,9,0.5633
+489222,2011-06-08,"Queen's Park Oval, Port of Spain",Away,Transition Era,0.0,ODI,173,202,85.64,14,0,0,4.8,9,0.59
+489223,2011-06-11,"Sir Vivian Richards Stadium, North Sound",Away,Transition Era,1.0,ODI,217,278,78.06,18,0,0,4.5,8,0.5867
+489224,2011-06-13,"Sir Vivian Richards Stadium, North Sound",Away,Transition Era,0.0,ODI,138,234,58.97,6,0,0,4.98,8,0.5867
+489225,2011-06-16,"Sabina Park, Kingston",Away,Transition Era,0.0,ODI,230,285,80.7,20,1,230,5.24,4,0.5342
+518956,2012-02-05,Melbourne Cricket Ground,Away,Transition Era,0.0,ODI,144,178,80.9,9,0,0,6.75,5,0.4167
+518957,2012-02-08,Western Australia Cricket Association Ground,Away,Transition Era,1.0,ODI,227,280,81.07,25,0,0,4.66,8,0.5067
+518959,2012-02-12,Adelaide Oval,Away,Transition Era,1.0,ODI,258,298,86.58,18,0,0,5.38,8,0.4667
+518962,2012-02-19,"Brisbane Cricket Ground, Woolloongabba",Away,Transition Era,0.0,ODI,162,261,62.07,12,0,0,5.76,5,0.46
+518963,2012-02-21,"Brisbane Cricket Ground, Woolloongabba",Away,Transition Era,0.0,ODI,222,271,81.92,18,0,0,5.78,6,0.4267
+518965,2012-02-26,Sydney Cricket Ground,Away,Transition Era,0.0,ODI,142,237,59.92,15,0,0,5.04,9,0.4767
+518966,2012-02-28,Bellerive Oval,Away,Transition Era,1.0,ODI,305,220,138.64,37,0,0,6.4,4,0.37
+521218,2011-10-14,"Rajiv Gandhi International Stadium, Uppal",Home,Transition Era,1.0,ODI,277,300,92.33,27,1,277,4.811,10,0.5161
+521219,2011-10-17,Feroz Shah Kotla,Home,Transition Era,1.0,ODI,222,220,100.91,30,0,0,4.903,10,0.5517
+521220,2011-10-20,"Punjab Cricket Association Stadium, Mohali",Home,Transition Era,1.0,ODI,283,296,95.61,24,0,0,5.96,4,0.4367
+521221,2011-10-23,Wankhede Stadium,Home,Transition Era,1.0,ODI,210,241,87.14,26,0,0,4.765,10,0.5668
+521222,2011-10-25,Eden Gardens,Home,Transition Era,1.0,ODI,261,300,87.0,30,1,261,4.757,10,0.5901
+535795,2012-03-13,Shere Bangla National Stadium,Away,Transition Era,1.0,ODI,290,300,96.67,26,1,290,5.624,10,0.4539
+535797,2012-03-16,Shere Bangla National Stadium,Away,Transition Era,0.0,ODI,271,300,90.33,28,1,271,5.939,5,0.4223
+535798,2012-03-18,Shere Bangla National Stadium,Away,Transition Era,1.0,ODI,319,287,111.15,39,0,0,6.58,6,0.33
+536929,2011-11-29,Barabati Stadium,Home,Transition Era,1.0,ODI,190,293,64.85,16,0,0,4.22,9,0.5833
+536930,2011-12-02,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Home,Transition Era,1.0,ODI,256,289,88.58,29,0,0,5.38,9,0.5767
+536931,2011-12-05,"Sardar Patel Stadium, Motera",Home,Transition Era,0.0,ODI,235,281,83.63,30,0,0,5.2,6,0.5333
+536932,2011-12-08,Holkar Cricket Stadium,Home,Transition Era,1.0,ODI,404,300,134.67,55,1,404,5.372,10,0.5676
+536933,2011-12-11,"MA Chidambaram Stadium, Chepauk",Home,Transition Era,1.0,ODI,256,300,85.33,21,1,256,5.275,10,0.6189
+564781,2012-07-21,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",Away,Transition Era,1.0,ODI,302,300,100.67,28,1,302,5.88,9,0.4749
+564782,2012-07-24,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",Away,Transition Era,1.0,ODI,127,201,63.18,11,1,127,6.923,1,0.5214
+564783,2012-07-28,R Premadasa Stadium,Away,Transition Era,1.0,ODI,273,298,91.61,23,0,0,5.72,5,0.41
+564784,2012-07-31,R Premadasa Stadium,Away,Transition Era,1.0,ODI,245,254,96.46,27,0,0,5.02,8,0.5333
+564785,2012-08-04,Pallekele International Cricket Stadium,Away,Transition Era,1.0,ODI,278,300,92.67,28,1,278,6.0,10,0.4599
+565812,2013-01-11,Saurashtra Cricket Association Stadium,Home,Modern Era,0.0,ODI,307,300,102.33,39,0,0,6.5,4,0.5
+565813,2013-01-15,Nehru Stadium,Away,Modern Era,1.0,ODI,270,300,90.0,31,1,270,4.389,10,0.6111
+565814,2013-01-19,JSCA International Stadium Complex,Home,Modern Era,1.0,ODI,150,169,88.76,23,0,0,3.661,10,0.6654
+565815,2013-01-23,"Punjab Cricket Association Stadium, Mohali",Home,Modern Era,1.0,ODI,251,285,88.07,31,0,0,5.14,7,0.56
+565816,2013-01-27,Himachal Pradesh Cricket Association Stadium,Home,Modern Era,0.0,ODI,216,298,72.48,28,1,216,4.796,3,0.5951
+566947,2013-06-20,Sophia Gardens,Away,Modern Era,1.0,ODI,166,210,79.05,17,0,0,3.62,8,0.6333
+566948,2013-06-23,Edgbaston,Away,Modern Era,1.0,ODI,125,120,104.17,13,1,125,6.2,8,0.4417
+578614,2013-06-06,Sophia Gardens,Away,Modern Era,1.0,ODI,317,300,105.67,39,1,317,6.1,10,0.4467
+578619,2013-06-11,Kennington Oval,Away,Modern Era,1.0,ODI,227,235,96.6,30,0,0,4.66,9,0.6333
+578623,2013-06-15,Edgbaston,Away,Modern Era,0.0,ODI,99,115,86.09,11,0,0,4.16,10,0.5546
+589308,2012-12-30,"MA Chidambaram Stadium, Chepauk",Home,Transition Era,0.0,ODI,205,300,68.33,16,1,205,4.734,4,0.4948
+589309,2013-01-03,Eden Gardens,Home,Modern Era,0.0,ODI,147,288,51.04,11,0,0,5.155,10,0.5361
+589310,2013-01-06,Feroz Shah Kotla,Home,Modern Era,1.0,ODI,150,262,57.25,17,1,150,3.215,10,0.7235
+597924,2013-06-30,"Sabina Park, Kingston",Away,Modern Era,0.0,ODI,207,300,69.0,20,1,207,4.825,9,0.5944
+597925,2013-07-02,"Sabina Park, Kingston",Away,Modern Era,0.0,ODI,171,269,63.57,16,0,0,6.96,1,0.39
+597926,2013-07-05,"Queen's Park Oval, Port of Spain",Away,Modern Era,1.0,ODI,287,300,95.67,40,1,287,5.005,10,0.6683
+597928,2013-07-09,"Queen's Park Oval, Port of Spain",Away,Modern Era,1.0,ODI,110,174,63.22,10,1,110,3.892,10,0.6554
+597929,2013-07-11,"Queen's Park Oval, Port of Spain",Away,Modern Era,1.0,ODI,188,298,63.09,20,0,0,4.116,10,0.6041
+643665,2013-07-24,Harare Sports Club,Away,Modern Era,1.0,ODI,223,269,82.9,24,0,0,4.56,7,0.5867
+643667,2013-07-26,Harare Sports Club,Away,Modern Era,1.0,ODI,266,300,88.67,29,1,266,4.72,9,0.5833
+643669,2013-07-28,Harare Sports Club,Away,Modern Era,1.0,ODI,178,213,83.57,18,0,0,3.978,10,0.6957
+643675,2013-08-01,Queens Sports Club,Away,Modern Era,1.0,ODI,142,185,76.76,14,0,0,3.375,10,0.707
+643677,2013-08-03,Queens Sports Club,Away,Modern Era,1.0,ODI,149,204,73.04,19,0,0,4.092,10,0.6695
+647249,2013-10-13,Maharashtra Cricket Association Stadium,Home,Modern Era,0.0,ODI,221,298,74.16,22,0,0,6.08,8,0.4767
+647251,2013-10-16,Sawai Mansingh Stadium,Home,Modern Era,1.0,ODI,336,261,128.74,50,0,0,7.18,5,0.4367
+647253,2013-10-19,"Punjab Cricket Association Stadium, Mohali",Home,Modern Era,0.0,ODI,283,300,94.33,36,1,283,6.141,6,0.4916
+647255,2013-10-23,JSCA International Stadium Complex,Home,Modern Era,0.0,ODI,23,25,92.0,4,0,0,5.9,8,0.49
+647259,2013-10-30,"Vidarbha Cricket Association Stadium, Jamtha",Home,Modern Era,1.0,ODI,335,297,112.79,44,0,0,7.0,6,0.4567
+647261,2013-11-02,M Chinnaswamy Stadium,Home,Modern Era,1.0,ODI,371,300,123.67,49,1,371,7.218,10,0.5092
+648651,2013-12-05,New Wanderers Stadium,Away,Modern Era,0.0,ODI,188,246,76.42,31,0,0,7.16,4,0.4233
+648653,2013-12-08,Kingsmead,Away,Modern Era,0.0,ODI,132,211,62.56,9,0,0,5.714,6,0.3878
+648655,2013-12-11,SuperSport Park,Away,Modern Era,0.0,ODI,0,0,,0,0,0,6.02,8,0.4633
+656405,2015-02-15,Adelaide Oval,Away,Modern Era,1.0,ODI,294,300,98.0,28,1,294,4.766,10,0.5922
+656423,2015-02-22,Melbourne Cricket Ground,Away,Modern Era,1.0,ODI,297,300,99.0,36,1,297,4.388,10,0.5496
+656439,2015-02-28,Western Australia Cricket Association Ground,Away,Modern Era,1.0,ODI,104,113,92.04,19,0,0,3.238,10,0.7354
+656453,2015-03-06,Western Australia Cricket Association Ground,Away,Modern Era,1.0,ODI,159,235,67.66,17,0,0,4.105,10,0.6654
+656465,2015-03-10,Seddon Park,Away,Modern Era,1.0,ODI,241,221,109.05,33,0,0,5.286,10,0.5272
+656475,2015-03-14,Eden Park,Away,Modern Era,1.0,ODI,272,292,93.15,33,0,0,5.877,10,0.5427
+656485,2015-03-19,Melbourne Cricket Ground,Away,Modern Era,1.0,ODI,286,300,95.33,33,1,286,4.289,10,0.6
+656493,2015-03-26,Sydney Cricket Ground,Away,Modern Era,0.0,ODI,218,281,77.58,20,0,0,6.56,7,0.47
+667641,2014-01-19,McLean Park,Away,Modern Era,0.0,ODI,253,292,86.64,25,0,0,5.84,7,0.4633
+667643,2014-01-22,Seddon Park,Away,Modern Era,1.0,ODI,267,249,107.23,36,0,0,6.452,7,0.4524
+667647,2014-01-28,Seddon Park,Away,Modern Era,0.0,ODI,267,300,89.0,35,1,267,5.813,3,0.5156
+667649,2014-01-31,Westpac Stadium,Away,Modern Era,0.0,ODI,210,298,70.47,20,0,0,6.06,5,0.46
+667723,2014-08-27,Sophia Gardens,Away,Modern Era,1.0,ODI,275,300,91.67,34,1,275,4.218,10,0.607
+667725,2014-08-30,Trent Bridge,Away,Modern Era,1.0,ODI,219,258,84.88,23,0,0,4.54,10,0.4833
+667727,2014-09-02,Edgbaston,Away,Modern Era,1.0,ODI,204,183,111.48,29,0,0,4.162,10,0.569
+667729,2014-09-05,Headingley,Away,Modern Era,0.0,ODI,248,292,84.93,28,0,0,5.88,7,0.51
+676529,2013-11-21,Nehru Stadium,Away,Modern Era,1.0,ODI,192,212,90.57,26,0,0,4.321,10,0.6109
+676531,2013-11-24,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Home,Modern Era,0.0,ODI,278,300,92.67,33,1,278,5.838,8,0.5051
+676533,2013-11-27,Green Park,Home,Modern Era,1.0,ODI,256,277,92.42,36,0,0,5.26,5,0.5533
+710293,2014-02-26,Khan Shaheb Osman Ali Stadium,Away,Modern Era,1.0,ODI,269,294,91.5,33,0,0,5.58,7,0.5167
+710297,2014-02-28,Khan Shaheb Osman Ali Stadium,Away,Modern Era,0.0,ODI,253,300,84.33,22,1,253,5.372,8,0.4797
+710301,2014-03-02,Shere Bangla National Stadium,Away,Modern Era,0.0,ODI,237,300,79.0,28,1,237,5.013,9,0.5638
+744679,2014-06-15,Shere Bangla National Stadium,Away,Modern Era,0.0,ODI,145,149,97.32,18,0,0,5.44,9,0.5133
+744681,2014-06-17,Shere Bangla National Stadium,Away,Modern Era,1.0,ODI,94,153,61.44,11,1,94,3.283,10,0.8019
+744683,2014-06-19,Shere Bangla National Stadium,Away,Modern Era,1.0,ODI,106,206,51.46,12,1,106,,0,
+754749,2015-01-18,Melbourne Cricket Ground,Away,Modern Era,0.0,ODI,247,300,82.33,24,1,247,5.49,6,0.5
+754753,2015-01-20,"Brisbane Cricket Ground, Woolloongabba",Away,Modern Era,0.0,ODI,146,237,61.6,10,1,146,5.673,1,0.5212
+754757,2015-01-26,Sydney Cricket Ground,Away,Modern Era,1.0,ODI,62,96,64.58,5,1,62,,0,
+754759,2015-01-30,Western Australia Cricket Association Ground,Away,Modern Era,0.0,ODI,194,289,67.13,18,1,194,4.292,7,0.5587
+770121,2014-10-08,Nehru Stadium,Away,Modern Era,0.0,ODI,182,246,73.98,23,0,0,6.42,6,0.5
+770123,2014-10-11,Feroz Shah Kotla,Home,Modern Era,1.0,ODI,245,300,81.67,23,1,245,4.624,10,0.5663
+770127,2014-10-17,Himachal Pradesh Cricket Association Stadium,Home,Modern Era,1.0,ODI,321,300,107.0,39,1,321,5.626,10,0.5606
+792289,2014-11-02,Barabati Stadium,Home,Modern Era,1.0,ODI,349,300,116.33,47,1,349,4.932,10,0.572
+792291,2014-11-06,"Sardar Patel Stadium, Motera",Home,Modern Era,1.0,ODI,272,267,101.87,29,0,0,5.48,8,0.49
+792293,2014-11-09,"Rajiv Gandhi International Stadium, Uppal",Home,Modern Era,1.0,ODI,234,265,88.3,24,0,0,5.007,10,0.5379
+792295,2014-11-13,Eden Gardens,Home,Modern Era,1.0,ODI,393,300,131.0,57,1,393,5.815,10,0.5714
+792297,2014-11-16,JSCA International Stadium Complex,Home,Modern Era,1.0,ODI,277,292,94.86,35,0,0,5.72,8,0.5433
+870731,2015-06-18,Shere Bangla National Stadium,Away,Modern Era,0.0,ODI,218,276,78.99,19,0,0,6.181,10,0.4497
+870735,2015-06-24,Shere Bangla National Stadium,Away,Modern Era,1.0,ODI,307,300,102.33,32,1,307,5.106,10,0.5496
+885959,2015-07-10,Harare Sports Club,Away,Modern Era,1.0,ODI,245,300,81.67,27,1,245,5.02,7,0.56
+885965,2015-07-12,Harare Sports Club,Away,Modern Era,1.0,ODI,258,300,86.0,19,1,258,4.265,10,0.5918
+885967,2015-07-14,Harare Sports Club,Away,Modern Era,1.0,ODI,263,300,87.67,27,1,263,4.523,10,0.5898
+895807,2016-01-12,Western Australia Cricket Association Ground,Away,Modern Era,0.0,ODI,299,300,99.67,34,1,299,6.284,5,0.3682
+895809,2016-01-15,"Brisbane Cricket Ground, Woolloongabba",Away,Modern Era,0.0,ODI,301,300,100.33,27,1,301,6.306,3,0.3946
+895811,2016-01-17,Melbourne Cricket Ground,Away,Modern Era,0.0,ODI,281,300,93.67,28,1,281,6.061,7,0.4778
+895813,2016-01-20,Manuka Oval,Away,Modern Era,0.0,ODI,317,296,107.09,36,0,0,6.96,8,0.4433
+895815,2016-01-23,Sydney Cricket Ground,Away,Modern Era,1.0,ODI,323,298,108.39,32,0,0,6.6,7,0.41
+903593,2015-10-11,Green Park,Home,Modern Era,0.0,ODI,281,300,93.67,30,0,0,6.06,5,0.4533
+903595,2015-10-14,Holkar Cricket Stadium,Home,Modern Era,1.0,ODI,234,300,78.0,27,1,234,5.153,10,0.5076
+903597,2015-10-18,Saurashtra Cricket Association Stadium,Home,Modern Era,0.0,ODI,241,300,80.33,23,0,0,5.4,7,0.4633
+903599,2015-10-22,"MA Chidambaram Stadium, Chepauk",Home,Modern Era,1.0,ODI,283,300,94.33,24,1,283,5.28,9,0.5167
+903601,2015-10-25,Wankhede Stadium,Home,Modern Era,0.0,ODI,219,216,101.39,30,0,0,8.76,5,0.3667
+1007649,2016-06-11,Harare Sports Club,Away,Modern Era,1.0,ODI,169,255,66.27,14,0,0,3.371,10,0.6388
+1007651,2016-06-13,Harare Sports Club,Away,Modern Era,1.0,ODI,117,161,72.67,17,0,0,3.652,9,0.6812
+1007653,2016-06-15,Harare Sports Club,Away,Modern Era,1.0,ODI,118,131,90.08,14,0,0,2.906,10,0.7047
+1022353,2017-06-04,Edgbaston,Away,Modern Era,1.0,ODI,313,288,108.68,37,1,313,4.871,9,0.5594
+1022361,2017-06-08,Kennington Oval,Away,Modern Era,0.0,ODI,307,300,102.33,39,1,307,6.616,4,0.3938
+1022367,2017-06-11,Kennington Oval,Away,Modern Era,1.0,ODI,189,228,82.89,25,0,0,4.292,10,0.5169
+1022373,2017-06-15,Edgbaston,Away,Modern Era,1.0,ODI,265,241,109.96,37,0,0,5.262,7,0.515
+1022375,2017-06-18,Kennington Oval,Away,Modern Era,0.0,ODI,155,183,84.7,20,0,0,6.76,4,0.4067
+1030219,2016-10-16,Himachal Pradesh Cricket Association Stadium,Home,Modern Era,1.0,ODI,180,199,90.45,23,0,0,4.335,10,0.6084
+1030221,2016-10-20,Feroz Shah Kotla,Home,Modern Era,0.0,ODI,223,296,75.34,19,0,0,4.84,9,0.5367
+1030223,2016-10-23,"Punjab Cricket Association Stadium, Mohali",Home,Modern Era,1.0,ODI,280,290,96.55,32,0,0,5.738,10,0.4899
+1030225,2016-10-26,JSCA International Stadium Complex,Home,Modern Era,0.0,ODI,229,292,78.42,21,0,0,5.2,7,0.4833
+1030227,2016-10-29,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Home,Modern Era,1.0,ODI,260,300,86.67,24,1,260,3.41,10,0.705
+1034819,2017-01-15,Maharashtra Cricket Association Stadium,Home,Modern Era,1.0,ODI,340,289,117.65,41,0,0,7.0,7,0.3867
+1034821,2017-01-19,Barabati Stadium,Home,Modern Era,1.0,ODI,365,300,121.67,54,1,365,7.32,8,0.37
+1034823,2017-01-22,Eden Gardens,Home,Modern Era,0.0,ODI,294,300,98.0,39,0,0,6.42,8,0.4633
+1098206,2017-06-23,"Queen's Park Oval, Port of Spain",Away,Modern Era,1.0,ODI,194,236,82.2,20,1,194,,0,
+1098207,2017-06-25,"Queen's Park Oval, Port of Spain",Away,Modern Era,1.0,ODI,297,258,115.12,34,1,297,4.767,6,0.5078
+1098208,2017-06-30,"Sir Vivian Richards Stadium, North Sound",Away,Modern Era,1.0,ODI,242,300,80.67,22,1,242,4.14,10,0.6332
+1098209,2017-07-02,"Sir Vivian Richards Stadium, North Sound",Away,Modern Era,0.0,ODI,167,297,56.23,11,0,0,3.78,9,0.6033
+1098210,2017-07-06,"Sabina Park, Kingston",Away,Modern Era,1.0,ODI,204,221,92.31,25,0,0,4.1,9,0.62
+1109605,2017-08-20,Rangiri Dambulla International Stadium,Away,Modern Era,1.0,ODI,218,173,126.01,34,0,0,4.985,10,0.5269
+1109606,2017-08-24,Pallekele International Cricket Stadium,Away,Modern Era,0.0,ODI,216,266,81.2,22,0,0,4.72,8,0.54
+1109607,2017-08-27,Pallekele International Cricket Stadium,Away,Modern Era,1.0,ODI,216,271,79.7,26,0,0,4.34,9,0.56
+1109608,2017-08-31,"R.Premadasa Stadium, Khettarama",Away,Modern Era,1.0,ODI,364,300,121.33,46,1,364,4.852,10,0.6016
+1109609,2017-09-03,"R.Premadasa Stadium, Khettarama",Away,Modern Era,1.0,ODI,231,279,82.8,19,0,0,4.792,10,0.5403
+1119496,2017-09-17,"MA Chidambaram Stadium, Chepauk",Home,Modern Era,1.0,ODI,267,300,89.0,29,1,267,6.524,9,0.4683
+1119497,2017-09-21,Eden Gardens,Home,Modern Era,1.0,ODI,237,300,79.0,25,1,237,4.68,10,0.6409
+1119498,2017-09-24,Holkar Cricket Stadium,Home,Modern Era,1.0,ODI,288,287,100.35,36,0,0,5.86,6,0.47
+1119499,2017-09-28,M.Chinnaswamy Stadium,Home,Modern Era,0.0,ODI,306,300,102.0,35,0,0,6.68,5,0.44
+1119500,2017-10-01,"Vidarbha Cricket Association Stadium, Jamtha",Home,Modern Era,1.0,ODI,241,257,93.77,28,0,0,4.84,9,0.4833
+1119546,2018-07-12,Trent Bridge,Away,Modern Era,1.0,ODI,261,241,108.3,34,0,0,5.378,10,0.4849
+1119547,2018-07-14,Lord's,Away,Modern Era,0.0,ODI,221,300,73.67,16,0,0,6.44,7,0.3833
+1119548,2018-07-17,Headingley,Away,Modern Era,0.0,ODI,245,300,81.67,27,1,245,5.843,2,0.4794
+1120090,2017-10-22,Wankhede Stadium,Home,Modern Era,0.0,ODI,266,300,88.67,27,1,266,5.796,4,0.4116
+1120091,2017-10-25,Maharashtra Cricket Association Stadium,Home,Modern Era,1.0,ODI,216,276,78.26,22,0,0,4.6,9,0.5467
+1120092,2017-10-29,Green Park,Home,Modern Era,1.0,ODI,329,300,109.67,39,1,329,6.62,7,0.4167
+1122279,2018-02-01,Kingsmead,Away,Modern Era,1.0,ODI,253,273,92.67,27,0,0,5.38,8,0.4833
+1122280,2018-02-04,SuperSport Park,Away,Modern Era,1.0,ODI,112,123,91.06,17,0,0,3.649,10,0.6237
+1122281,2018-02-07,Newlands,Away,Modern Era,1.0,ODI,288,300,96.0,28,1,288,4.475,10,0.5583
+1122282,2018-02-10,The Wanderers Stadium,Away,Modern Era,1.0,ODI,271,300,90.33,29,1,271,8.118,5,0.3922
+1122283,2018-02-13,St George's Park,Away,Modern Era,1.0,ODI,257,300,85.67,30,1,257,4.748,10,0.5354
+1122284,2018-02-16,SuperSport Park,Away,Modern Era,1.0,ODI,196,193,101.55,29,0,0,4.356,10,0.6121
+1122726,2017-12-10,Himachal Pradesh Cricket Association Stadium,Home,Modern Era,0.0,ODI,107,230,46.52,19,1,107,5.516,3,0.6774
+1122727,2017-12-13,"Punjab Cricket Association IS Bindra Stadium, Mohali",Home,Modern Era,1.0,ODI,379,300,126.33,47,1,379,5.02,8,0.5367
+1122728,2017-12-17,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Home,Modern Era,1.0,ODI,198,193,102.59,28,0,0,4.796,10,0.5874
+1144490,2019-06-05,The Rose Bowl,Away,Modern Era,1.0,ODI,223,285,78.25,24,0,0,4.54,9,0.53
+1144496,2019-06-09,Kennington Oval,Away,Modern Era,1.0,ODI,342,300,114.0,39,1,342,6.32,10,0.4233
+1144504,2019-06-16,Old Trafford,Away,Modern Era,1.0,ODI,325,300,108.33,34,1,325,5.3,6,0.4833
+1144516,2019-06-27,Old Trafford,Away,Modern Era,1.0,ODI,261,300,87.0,30,1,261,4.165,10,0.5874
+1144520,2019-06-30,Edgbaston,Away,Modern Era,0.0,ODI,299,300,99.67,36,0,0,6.74,7,0.46
+1144522,2019-07-02,Edgbaston,Away,Modern Era,1.0,ODI,301,300,100.33,34,1,301,5.958,10,0.4722
+1144526,2019-07-06,Headingley,Away,Modern Era,1.0,ODI,259,261,99.23,33,0,0,5.28,7,0.49
+1144528,2019-07-09,Old Trafford,Away,Modern Era,0.0,ODI,205,297,69.02,18,0,0,4.78,8,0.51
+1144997,2019-01-12,Sydney Cricket Ground,Away,Modern Era,0.0,ODI,240,300,80.0,24,0,0,5.76,5,0.4533
+1144998,2019-01-15,Adelaide Oval,Away,Modern Era,1.0,ODI,283,296,95.61,22,0,0,5.96,9,0.4567
+1144999,2019-01-18,Melbourne Cricket Ground,Away,Modern Era,1.0,ODI,226,296,76.35,17,0,0,4.726,10,0.5171
+1153246,2018-09-18,Dubai International Cricket Stadium,Away,Modern Era,1.0,ODI,280,300,93.33,30,1,280,5.197,8,0.5318
+1153247,2018-09-19,Dubai International Cricket Stadium,Away,Modern Era,1.0,ODI,160,174,91.95,22,0,0,3.753,10,0.6023
+1153249,2018-09-21,Dubai International Cricket Stadium,Away,Modern Era,1.0,ODI,170,218,77.98,17,0,0,3.519,10,0.6407
+1153251,2018-09-23,Dubai International Cricket Stadium,Away,Modern Era,1.0,ODI,237,237,100.0,30,0,0,4.74,7,0.4733
+1153255,2018-09-28,Dubai International Cricket Stadium,Away,Modern Era,1.0,ODI,210,300,70.0,19,0,0,4.577,10,0.5704
+1153691,2019-01-23,McLean Park,Away,Modern Era,0.0,ODI,144,209,68.9,12,0,0,4.132,10,0.6228
+1153692,2019-01-26,Bay Oval,Away,Modern Era,1.0,ODI,313,300,104.33,40,1,313,5.802,10,0.5248
+1153693,2019-01-28,Bay Oval,Away,Modern Era,1.0,ODI,228,258,88.37,30,0,0,4.942,10,0.4983
+1153694,2019-01-31,Seddon Park,Away,Modern Era,0.0,ODI,85,185,45.95,12,1,85,6.341,2,0.625
+1153695,2019-02-03,Westpac Stadium,Away,Modern Era,1.0,ODI,237,299,79.26,28,1,237,4.913,10,0.5396
+1157754,2018-10-21,Barsapara Cricket Stadium,Home,Modern Era,1.0,ODI,318,253,125.69,49,0,0,6.44,8,0.4733
+1157756,2018-10-27,Maharashtra Cricket Association Stadium,Home,Modern Era,0.0,ODI,234,286,81.82,26,0,0,5.66,9,0.5233
+1157757,2018-10-29,Brabourne Stadium,Home,Modern Era,1.0,ODI,362,300,120.67,50,1,362,4.211,10,0.633
+1157758,2018-11-01,Greenfield International Stadium,Home,Modern Era,1.0,ODI,102,89,114.61,16,0,0,3.267,10,0.6859
+1168242,2019-03-02,"Rajiv Gandhi International Stadium, Uppal",Home,Modern Era,1.0,ODI,234,290,80.69,31,0,0,4.72,7,0.56
+1168243,2019-03-05,"Vidarbha Cricket Association Stadium, Jamtha",Home,Modern Era,1.0,ODI,238,290,82.07,23,1,238,4.889,10,0.5421
+1168244,2019-03-08,JSCA International Stadium Complex,Home,Modern Era,0.0,ODI,266,290,91.72,34,0,0,6.26,5,0.4433
+1168245,2019-03-10,"Punjab Cricket Association IS Bindra Stadium, Mohali",Home,Modern Era,0.0,ODI,351,300,117.0,41,1,351,7.505,6,0.324
+1168246,2019-03-13,Arun Jaitley Stadium,Home,Modern Era,0.0,ODI,222,300,74.0,22,0,0,5.44,9,0.51
+1187021,2019-12-15,"MA Chidambaram Stadium, Chepauk",Home,Modern Era,0.0,ODI,263,300,87.67,29,1,263,6.084,2,0.4599
+1187022,2019-12-18,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Home,Modern Era,1.0,ODI,369,300,123.0,50,1,369,6.437,10,0.5096
+1187023,2019-12-22,Barabati Stadium,Home,Modern Era,1.0,ODI,304,292,104.11,37,0,0,6.3,5,0.47
+1187027,2020-01-14,Wankhede Stadium,Home,Modern Era,0.0,ODI,244,295,82.71,28,1,244,6.85,0,0.4867
+1187028,2020-01-17,Saurashtra Cricket Association Stadium,Home,Modern Era,1.0,ODI,326,300,108.67,37,1,326,6.183,10,0.4068
+1187029,2020-01-19,M.Chinnaswamy Stadium,Home,Modern Era,1.0,ODI,279,285,97.89,33,0,0,5.72,9,0.44
+1187682,2020-02-05,Seddon Park,Away,Modern Era,0.0,ODI,320,300,106.67,40,1,320,7.225,6,0.4152
+1187683,2020-02-08,Eden Park,Away,Modern Era,0.0,ODI,235,291,80.76,30,0,0,5.46,8,0.5033
+1187684,2020-02-11,Bay Oval,Away,Modern Era,0.0,ODI,289,300,96.33,32,1,289,6.36,5,0.4594
+1188624,2019-08-08,"Providence Stadium, Guyana",Away,Modern Era,0.0,ODI,0,0,,0,0,0,4.154,1,0.6538
+1188625,2019-08-11,"Queen's Park Oval, Trinidad",Away,Modern Era,1.0,ODI,267,300,89.0,28,1,267,5.0,10,0.5357
+1188626,2019-08-14,"Queen's Park Oval, Trinidad",Away,Modern Era,1.0,ODI,244,195,125.13,31,0,0,6.857,7,0.481
+1223955,2020-11-27,Sydney Cricket Ground,Away,Modern Era,0.0,ODI,284,299,94.98,32,0,0,7.48,6,0.4133
+1223956,2020-11-29,Sydney Cricket Ground,Away,Modern Era,0.0,ODI,328,300,109.33,38,0,0,7.78,4,0.35
+1223957,2020-12-02,Manuka Oval,Away,Modern Era,1.0,ODI,294,300,98.0,29,1,294,5.838,10,0.4983
+1243393,2021-03-23,Maharashtra Cricket Association Stadium,Home,Modern Era,1.0,ODI,309,300,103.0,41,1,309,5.953,10,0.5257
+1243394,2021-03-26,Maharashtra Cricket Association Stadium,Home,Modern Era,0.0,ODI,327,300,109.0,34,1,327,7.747,4,0.4751
+1243395,2021-03-28,Maharashtra Cricket Association Stadium,Home,Modern Era,1.0,ODI,318,290,109.66,39,1,318,6.44,9,0.47
+1262755,2021-07-18,"R Premadasa Stadium, Colombo",Away,Modern Era,1.0,ODI,245,220,111.36,33,0,0,5.24,9,0.5233
+1262756,2021-07-20,"R Premadasa Stadium, Colombo",Away,Modern Era,1.0,ODI,256,295,86.78,31,0,0,5.5,9,0.4733
+1262757,2021-07-23,"R Premadasa Stadium, Colombo",Away,Modern Era,0.0,ODI,215,259,83.01,27,1,215,5.821,7,0.5299
+1276907,2022-07-12,"Kennington Oval, London",Away,Modern Era,1.0,ODI,107,112,95.54,16,0,0,4.342,10,0.7039
+1276908,2022-07-14,"Lord's, London",Away,Modern Era,0.0,ODI,138,233,59.23,13,0,0,5.02,10,0.5646
+1276909,2022-07-17,"Old Trafford, Manchester",Away,Modern Era,1.0,ODI,254,253,100.4,36,0,0,5.651,10,0.5491
+1277082,2022-01-19,"Boland Park, Paarl",Away,Modern Era,0.0,ODI,252,300,84.0,22,0,0,5.92,4,0.43
+1277083,2022-01-21,"Boland Park, Paarl",Away,Modern Era,0.0,ODI,267,300,89.0,28,1,267,5.979,3,0.4291
+1277084,2022-01-23,"Newlands, Cape Town",Away,Modern Era,0.0,ODI,272,296,91.89,29,0,0,5.759,10,0.4916
+1278676,2022-02-06,"Narendra Modi Stadium, Ahmedabad",Home,Modern Era,1.0,ODI,167,168,99.4,25,0,0,4.015,10,0.6654
+1278677,2022-02-09,"Narendra Modi Stadium, Ahmedabad",Home,Modern Era,1.0,ODI,229,300,76.33,22,1,229,4.196,10,0.6232
+1278678,2022-02-11,"Narendra Modi Stadium, Ahmedabad",Home,Modern Era,1.0,ODI,245,300,81.67,31,1,245,4.547,10,0.6637
+1317900,2022-07-22,"Queen's Park Oval, Port of Spain, Trinidad",Away,Modern Era,1.0,ODI,296,300,98.67,36,1,296,6.1,6,0.4533
+1317901,2022-07-24,"Queen's Park Oval, Port of Spain, Trinidad",Away,Modern Era,1.0,ODI,293,298,98.32,29,0,0,6.22,6,0.4733
+1317902,2022-07-27,"Queen's Park Oval, Port of Spain, Trinidad",Away,Modern Era,1.0,ODI,214,216,99.07,22,1,214,5.269,10,0.5128
+1322278,2022-11-25,"Eden Park, Auckland",Away,Modern Era,0.0,ODI,295,300,98.33,38,1,295,6.551,3,0.4806
+1322279,2022-11-27,"Seddon Park, Hamilton",Away,Modern Era,1.0,ODI,82,77,106.49,10,1,82,,0,
+1322280,2022-11-30,"Hagley Oval, Christchurch",Away,Modern Era,1.0,ODI,198,285,69.47,25,1,198,5.778,1,0.5926
+1325549,2022-08-18,Harare Sports Club,Away,Modern Era,1.0,ODI,163,184,88.59,20,0,0,4.667,10,0.6337
+1325550,2022-08-20,Harare Sports Club,Away,Modern Era,1.0,ODI,147,154,95.45,21,0,0,4.218,10,0.6332
+1325551,2022-08-22,Harare Sports Club,Away,Modern Era,1.0,ODI,279,300,93.0,33,1,279,5.557,10,0.5101
+1327509,2022-10-06,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Home,Modern Era,0.0,ODI,222,240,92.5,30,0,0,6.225,4,0.5042
+1327510,2022-10-09,"JSCA International Stadium Complex, Ranchi",Home,Modern Era,1.0,ODI,277,275,100.73,34,0,0,5.56,7,0.4667
+1327511,2022-10-11,"Arun Jaitley Stadium, Delhi",Home,Modern Era,1.0,ODI,97,115,84.35,16,0,0,3.644,10,0.6626
+1340845,2022-12-04,"Shere Bangla National Stadium, Mirpur",Away,Modern Era,0.0,ODI,172,248,69.35,19,1,172,4.065,9,0.6413
+1340846,2022-12-07,"Shere Bangla National Stadium, Mirpur",Away,Modern Era,0.0,ODI,247,300,82.33,26,0,0,5.42,7,0.5567
+1340847,2022-12-10,"Zahur Ahmed Chowdhury Stadium, Chattogram",Away,Modern Era,1.0,ODI,400,300,133.33,55,1,400,5.353,10,0.5392
+1348643,2023-01-10,"Barsapara Cricket Stadium, Guwahati",Home,Modern Era,1.0,ODI,367,300,122.33,46,1,367,6.12,8,0.55
+1348644,2023-01-12,"Eden Gardens, Kolkata",Home,Modern Era,1.0,ODI,201,260,77.31,28,0,0,5.42,10,0.5546
+1348645,2023-01-15,"Greenfield International Stadium, Thiruvananthapuram",Home,Modern Era,1.0,ODI,375,300,125.0,46,1,375,3.318,9,0.7652
+1348646,2023-01-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Home,Modern Era,1.0,ODI,336,300,112.0,42,1,336,6.773,10,0.5254
+1348647,2023-01-21,"Shaheed Veer Narayan Singh International Stadium, Raipur",Away,Modern Era,1.0,ODI,110,121,90.91,19,0,0,3.13,10,0.715
+1348648,2023-01-24,"Holkar Cricket Stadium, Indore",Home,Modern Era,1.0,ODI,373,300,124.33,52,1,373,7.137,10,0.4315
+1348656,2023-03-17,"Wankhede Stadium, Mumbai",Home,Modern Era,1.0,ODI,172,239,71.97,21,0,0,5.271,10,0.6121
+1348657,2023-03-19,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Home,Modern Era,0.0,ODI,103,156,66.03,11,1,103,11.0,0,0.4394
+1348658,2023-03-22,"MA Chidambaram Stadium, Chepauk, Chennai",Home,Modern Era,0.0,ODI,236,295,80.0,22,0,0,5.49,10,0.5306
+1381214,2023-07-27,"Kensington Oval, Bridgetown, Barbados",Away,Modern Era,1.0,ODI,112,137,81.75,16,0,0,4.957,10,0.6304
+1381215,2023-07-29,"Kensington Oval, Bridgetown, Barbados",Away,Modern Era,0.0,ODI,170,245,69.39,19,1,170,4.964,4,0.5409
+1381216,2023-08-01,"Brian Lara Stadium, Tarouba, Trinidad",Away,Modern Era,1.0,ODI,334,300,111.33,42,1,334,4.254,10,0.7183
+1384396,2023-10-08,"MA Chidambaram Stadium, Chepauk, Chennai",Home,Modern Era,1.0,ODI,193,248,77.82,17,0,0,4.02,10,0.5825
+1384403,2023-10-14,"Narendra Modi Stadium, Ahmedabad",Home,Modern Era,1.0,ODI,190,183,103.83,26,0,0,4.459,10,0.5875
+1384408,2023-10-19,"Maharashtra Cricket Association Stadium, Pune",Home,Modern Era,1.0,ODI,257,249,103.21,32,0,0,5.12,8,0.5267
+1384412,2023-10-22,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Home,Modern Era,1.0,ODI,269,288,93.4,36,0,0,5.478,10,0.4983
+1384420,2023-10-29,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Home,Modern Era,1.0,ODI,222,300,74.0,24,1,222,3.703,10,0.6651
+1384424,2023-11-02,"Wankhede Stadium, Mumbai",Home,Modern Era,1.0,ODI,337,300,112.33,40,1,337,2.797,10,0.7797
+1384428,2023-11-05,"Eden Gardens, Kolkata",Home,Modern Era,1.0,ODI,300,298,100.67,41,1,300,3.055,10,0.7239
+1384436,2023-11-12,"M Chinnaswamy Stadium, Bengaluru",Home,Modern Era,1.0,ODI,395,300,131.67,53,1,395,5.226,10,0.5645
+1384437,2023-11-15,"Wankhede Stadium, Mumbai",Home,Modern Era,1.0,ODI,389,300,129.67,49,1,389,6.696,10,0.5017
+1384439,2023-11-19,"Narendra Modi Stadium, Ahmedabad",Home,Modern Era,0.0,ODI,228,300,76.0,16,1,228,5.605,4,0.5078
+1387600,2023-12-17,"The Wanderers Stadium, Johannesburg",Away,Modern Era,1.0,ODI,113,100,113.0,17,0,0,4.218,10,0.7455
+1387601,2023-12-19,"St George's Park, Gqeberha",Away,Modern Era,0.0,ODI,200,278,71.94,24,1,200,5.059,2,0.5765
+1387602,2023-12-21,"Boland Park, Paarl",Away,Modern Era,1.0,ODI,274,300,91.33,30,1,274,4.756,10,0.5564
+1388394,2023-09-02,Pallekele International Cricket Stadium,Away,Modern Era,1.0,ODI,246,293,83.96,29,1,246,,0,
+1388398,2023-09-04,Pallekele International Cricket Stadium,Away,Modern Era,0.0,ODI,141,121,116.53,20,0,0,4.759,10,0.5931
+1388406,2023-09-10,"R Premadasa Stadium, Colombo",Away,Modern Era,1.0,ODI,347,300,115.67,46,1,347,4.0,8,0.6302
+1388407,2023-09-12,"R Premadasa Stadium, Colombo",Away,Modern Era,1.0,ODI,192,295,65.08,16,1,192,4.145,10,0.6145
+1388412,2023-09-15,"R Premadasa Stadium, Colombo",Away,Modern Era,0.0,ODI,242,299,80.94,25,0,0,5.3,8,0.58
+1388414,2023-09-17,"R Premadasa Stadium, Colombo",Away,Modern Era,1.0,ODI,50,37,135.14,9,0,0,3.261,10,0.75
+1389388,2023-09-22,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Home,Modern Era,1.0,ODI,277,292,94.86,32,0,0,5.52,10,0.51
+1389389,2023-09-24,"Holkar Cricket Stadium, Indore",Home,Modern Era,1.0,ODI,385,300,128.33,49,1,385,7.659,10,0.4765
+1389390,2023-09-27,"Saurashtra Cricket Association Stadium, Rajkot",Home,Modern Era,0.0,ODI,280,298,93.96,30,0,0,7.04,7,0.4233
+1439904,2025-02-06,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",Home,Modern Era,1.0,ODI,238,232,102.59,38,0,0,5.203,10,0.514
+1439905,2025-02-09,"Barabati Stadium, Cuttack",Home,Modern Era,1.0,ODI,300,267,112.36,43,0,0,6.1,10,0.4314
+1439906,2025-02-12,"Narendra Modi Stadium, Ahmedabad",Home,Modern Era,1.0,ODI,343,300,114.33,46,1,343,6.233,10,0.5388
+1442991,2024-08-04,"R Premadasa Stadium, Colombo",Away,Modern Era,0.0,ODI,193,254,75.98,21,0,0,4.8,9,0.54
+1442992,2024-08-07,"R Premadasa Stadium, Colombo",Away,Modern Era,0.0,ODI,137,157,87.26,22,0,0,4.96,7,0.53
+1466415,2025-02-20,Dubai International Cricket Stadium,Away,Modern Era,1.0,ODI,228,279,81.72,25,0,0,4.591,10,0.5302
+1466418,2025-02-23,Dubai International Cricket Stadium,Away,Modern Era,1.0,ODI,233,255,91.37,25,0,0,4.832,10,0.4933
+1466425,2025-03-02,Dubai International Cricket Stadium,Away,Modern Era,1.0,ODI,239,300,79.67,22,1,239,4.505,10,0.5641
+1466426,2025-03-04,Dubai International Cricket Stadium,Away,Modern Era,1.0,ODI,264,289,91.35,23,0,0,5.333,10,0.5152
+1466428,2025-03-09,Dubai International Cricket Stadium,Away,Modern Era,1.0,ODI,246,294,83.67,22,0,0,5.02,7,0.5033
+1478904,2025-10-19,Perth Stadium,Away,Modern Era,1.0,ODI,128,156,82.05,14,1,128,6.189,3,0.5433
+1478905,2025-10-23,Adelaide Oval,Away,Modern Era,0.0,ODI,255,300,85.0,29,1,255,5.719,8,0.4568
+1478906,2025-10-25,Sydney Cricket Ground,Away,Modern Era,1.0,ODI,219,231,94.81,26,0,0,5.057,10,0.4893
+1479573,2025-11-30,"JSCA International Stadium Complex, Ranchi",Home,Modern Era,1.0,ODI,326,300,108.67,38,1,326,6.73,10,0.473
+1479574,2025-12-03,"Shaheed Veer Narayan Singh International Stadium, Raipur",Away,Modern Era,0.0,ODI,333,299,111.37,39,1,333,7.338,7,0.3514
+1479575,2025-12-06,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Home,Modern Era,1.0,ODI,256,239,107.11,33,0,0,5.645,10,0.4808
+1490231,2026-01-11,"Kotambi Stadium, Vadodara",Home,Modern Era,1.0,ODI,293,294,99.66,30,0,0,6.0,8,0.4167
+1490232,2026-01-14,"Niranjan Shah Stadium, Rajkot",Home,Modern Era,0.0,ODI,274,300,91.33,30,1,274,6.021,3,0.3789
+1490233,2026-01-18,"Holkar Cricket Stadium, Indore",Home,Modern Era,0.0,ODI,288,276,104.35,33,0,0,6.74,8,0.4233
+255954,2006-12-01,New Wanderers Stadium,Away,Early 2000s,1.0,T20I,116,119,97.48,17,0,0,6.3,9,0.5083
+287865,2007-09-16,New Wanderers Stadium,Away,Early 2000s,0.0,T20I,176,120,146.67,27,0,0,9.5,10,0.35
+287873,2007-09-19,Kingsmead,Away,Early 2000s,1.0,T20I,200,120,166.67,26,1,200,10.0,6,0.225
+287876,2007-09-20,Kingsmead,Away,Early 2000s,1.0,T20I,140,120,116.67,20,1,140,5.8,9,0.5
+287878,2007-09-22,Kingsmead,Away,Early 2000s,1.0,T20I,181,120,150.83,25,1,181,8.65,7,0.4083
+287879,2007-09-24,New Wanderers Stadium,Away,Early 2000s,1.0,T20I,151,120,125.83,17,1,151,7.795,10,0.4359
+291356,2008-02-01,Melbourne Cricket Ground,Away,Transition Era,0.0,T20I,71,105,67.62,3,1,71,6.618,1,0.4559
+297800,2007-10-20,Brabourne Stadium,Home,Early 2000s,1.0,T20I,143,109,131.19,19,0,0,8.3,5,0.35
+355994,2009-06-06,Trent Bridge,Away,Transition Era,1.0,T20I,175,120,145.83,20,1,175,7.75,8,0.3417
+356001,2009-06-10,Trent Bridge,Away,Transition Era,1.0,T20I,106,93,113.98,10,0,0,6.222,8,0.4259
+356006,2009-06-12,Lord's,Away,Transition Era,0.0,T20I,148,120,123.33,18,1,148,8.357,3,0.3036
+356010,2009-06-14,Lord's,Away,Transition Era,0.0,T20I,142,120,118.33,14,0,0,7.65,7,0.375
+356014,2009-06-16,Trent Bridge,Away,Transition Era,0.0,T20I,110,120,91.67,10,0,0,6.5,5,0.3667
+366622,2009-02-27,Westpac Stadium,Away,Transition Era,0.0,T20I,146,120,121.67,18,1,146,7.5,5,0.3917
+386494,2009-02-25,AMI Stadium,Away,Transition Era,0.0,T20I,156,120,130.0,19,1,156,8.814,3,0.4159
+386535,2009-02-10,R Premadasa Stadium,Away,Transition Era,1.0,T20I,158,116,136.21,22,0,0,8.55,4,0.3167
+412682,2010-05-02,"Beausejour Stadium, Gros Islet",Away,Transition Era,1.0,T20I,181,120,150.83,24,1,181,8.6,5,0.2333
+412691,2010-05-07,"Kensington Oval, Bridgetown",Away,Transition Era,0.0,T20I,125,106,117.92,16,0,0,9.2,5,0.35
+412695,2010-05-09,"Kensington Oval, Bridgetown",Away,Transition Era,0.0,T20I,136,119,114.29,18,0,0,8.45,6,0.3667
+412699,2010-05-11,"Beausejour Stadium, Gros Islet",Away,Transition Era,0.0,T20I,154,120,128.33,16,1,154,8.35,5,0.3667
+430884,2009-12-09,"Vidarbha Cricket Association Stadium, Jamtha",Home,Transition Era,0.0,T20I,176,120,146.67,23,0,0,10.75,5,0.2583
+430885,2009-12-12,"Punjab Cricket Association Stadium, Mohali",Home,Transition Era,1.0,T20I,204,115,177.39,27,0,0,10.3,7,0.2833
+452153,2010-06-12,Harare Sports Club,Away,Transition Era,1.0,T20I,108,90,120.0,15,0,0,5.55,9,0.45
+452154,2010-06-13,Harare Sports Club,Away,Transition Era,1.0,T20I,132,108,122.22,15,0,0,7.0,5,0.3917
+463149,2011-01-09,Moses Mabhida Stadium,Away,Transition Era,1.0,T20I,164,120,136.67,21,1,164,7.35,9,0.4083
+474476,2011-08-31,Old Trafford,Away,Transition Era,0.0,T20I,155,118,131.36,20,1,155,8.667,4,0.2821
+489220,2011-06-04,"Queen's Park Oval, Port of Spain",Away,Transition Era,1.0,T20I,146,120,121.67,16,1,146,7.15,5,0.425
+518954,2012-02-01,Stadium Australia,Away,Transition Era,0.0,T20I,130,120,108.33,12,0,0,8.55,4,0.3333
+518955,2012-02-03,Melbourne Cricket Ground,Away,Transition Era,1.0,T20I,131,118,111.02,12,0,0,6.661,10,0.4153
+521217,2011-10-29,Eden Gardens,Home,Transition Era,0.0,T20I,118,120,98.33,14,1,118,6.482,4,0.4375
+533281,2012-09-23,R Premadasa Stadium,Away,Transition Era,1.0,T20I,158,120,131.67,19,1,158,5.455,10,0.5909
+533287,2012-09-28,R Premadasa Stadium,Away,Transition Era,0.0,T20I,130,120,108.33,17,1,130,9.506,1,0.4494
+533291,2012-09-30,R Premadasa Stadium,Away,Transition Era,1.0,T20I,126,102,123.53,16,0,0,6.508,10,0.4407
+533295,2012-10-02,R Premadasa Stadium,Away,Transition Era,1.0,T20I,141,120,117.5,16,1,141,7.613,10,0.3697
+556252,2012-03-30,New Wanderers Stadium,Away,Transition Era,0.0,T20I,67,47,142.55,9,0,0,10.95,4,0.2167
+564786,2012-08-07,Pallekele International Cricket Stadium,Away,Transition Era,1.0,T20I,145,120,120.83,20,1,145,6.444,10,0.4815
+565810,2012-12-20,Subrata Roy Sahara Stadium,Away,Transition Era,1.0,T20I,144,107,134.58,16,0,0,7.85,6,0.3167
+565811,2012-12-22,Wankhede Stadium,Home,Transition Era,0.0,T20I,160,120,133.33,19,1,160,9.05,4,0.2667
+565820,2012-09-11,"MA Chidambaram Stadium, Chepauk",Home,Transition Era,0.0,T20I,160,120,133.33,19,0,0,8.35,5,0.275
+589306,2012-12-25,M Chinnaswamy Stadium,Home,Transition Era,0.0,T20I,128,120,106.67,12,1,128,6.814,5,0.4492
+589307,2012-12-28,"Sardar Patel Stadium, Motera",Home,Transition Era,1.0,T20I,186,120,155.0,27,1,186,9.05,7,0.3
+647247,2013-10-10,Saurashtra Cricket Association Stadium,Home,Modern Era,1.0,T20I,189,118,160.17,27,0,0,10.05,7,0.3083
+667731,2014-09-07,Edgbaston,Away,Modern Era,0.0,T20I,169,120,140.83,21,0,0,9.0,7,0.35
+682921,2014-03-21,Shere Bangla National Stadium,Away,Modern Era,1.0,T20I,126,111,113.51,18,0,0,6.5,7,0.4083
+682929,2014-03-23,Shere Bangla National Stadium,Away,Modern Era,1.0,T20I,127,118,107.63,14,0,0,6.45,7,0.5417
+682943,2014-03-28,Shere Bangla National Stadium,Away,Modern Era,1.0,T20I,136,111,122.52,13,0,0,6.9,7,0.4833
+682951,2014-03-30,Shere Bangla National Stadium,Away,Modern Era,1.0,T20I,142,120,118.33,17,1,142,5.265,10,0.5102
+682963,2014-04-04,Shere Bangla National Stadium,Away,Modern Era,1.0,T20I,167,115,145.22,21,0,0,8.6,4,0.3
+682965,2014-04-06,Shere Bangla National Stadium,Away,Modern Era,0.0,T20I,124,120,103.33,12,1,124,7.514,4,0.4579
+885969,2015-07-17,Harare Sports Club,Away,Modern Era,1.0,T20I,153,120,127.5,15,1,153,6.2,7,0.45
+885971,2015-07-19,Harare Sports Club,Away,Modern Era,0.0,T20I,133,120,110.83,15,0,0,7.25,7,0.375
+895817,2016-01-26,Adelaide Oval,Away,Modern Era,1.0,T20I,178,120,148.33,22,1,178,7.692,10,0.359
+895819,2016-01-29,Melbourne Cricket Ground,Away,Modern Era,1.0,T20I,175,120,145.83,22,1,175,7.85,8,0.3167
+895821,2016-01-31,Sydney Cricket Ground,Away,Modern Era,1.0,T20I,192,120,160.0,23,0,0,9.85,5,0.2667
+903587,2015-10-02,Himachal Pradesh Cricket Association Stadium,Home,Modern Era,0.0,T20I,188,120,156.67,26,1,188,10.169,3,0.2712
+903589,2015-10-05,Barabati Stadium,Home,Modern Era,0.0,T20I,81,104,77.88,8,1,81,5.592,4,0.4563
+951329,2016-03-15,"Vidarbha Cricket Association Stadium, Jamtha",Home,Modern Era,0.0,T20I,75,109,68.81,5,0,0,6.3,7,0.4333
+951341,2016-03-19,Eden Gardens,Home,Modern Era,1.0,T20I,108,95,113.68,14,0,0,6.556,5,0.4074
+951353,2016-03-23,M Chinnaswamy Stadium,Home,Modern Era,1.0,T20I,143,120,119.17,16,1,143,7.25,9,0.3833
+951363,2016-03-27,"Punjab Cricket Association IS Bindra Stadium, Mohali",Home,Modern Era,1.0,T20I,156,115,135.65,20,0,0,8.0,6,0.35
+951371,2016-03-31,Wankhede Stadium,Home,Modern Era,0.0,T20I,187,120,155.83,21,1,187,9.966,3,0.3729
+963697,2016-02-09,Maharashtra Cricket Association Stadium,Home,Modern Era,0.0,T20I,90,113,79.65,10,1,90,5.833,5,0.5185
+963699,2016-02-12,JSCA International Stadium Complex,Home,Modern Era,1.0,T20I,186,120,155.0,24,1,186,6.35,9,0.3833
+963701,2016-02-14,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Home,Modern Era,1.0,T20I,81,83,97.59,9,0,0,4.556,10,0.6204
+966745,2016-02-24,Shere Bangla National Stadium,Away,Modern Era,1.0,T20I,159,120,132.5,20,1,159,6.05,7,0.45
+966751,2016-02-27,Shere Bangla National Stadium,Away,Modern Era,1.0,T20I,71,93,76.34,10,0,0,4.743,10,0.6381
+966757,2016-03-01,Shere Bangla National Stadium,Away,Modern Era,1.0,T20I,141,116,121.55,19,0,0,6.9,9,0.3917
+966761,2016-03-03,Shere Bangla National Stadium,Away,Modern Era,1.0,T20I,80,61,131.15,16,0,0,4.05,9,0.6333
+966765,2016-03-06,Shere Bangla National Stadium,Away,Modern Era,1.0,T20I,122,83,146.99,18,0,0,8.0,5,0.3111
+1007655,2016-06-18,Harare Sports Club,Away,Modern Era,0.0,T20I,155,120,129.17,19,0,0,8.5,7,0.3583
+1007657,2016-06-20,Harare Sports Club,Away,Modern Era,1.0,T20I,99,79,125.32,11,0,0,4.95,9,0.5417
+1007659,2016-06-22,Harare Sports Club,Away,Modern Era,1.0,T20I,134,120,111.67,15,1,134,6.75,6,0.45
+1034825,2017-01-26,Green Park,Home,Modern Era,0.0,T20I,136,120,113.33,14,1,136,8.147,3,0.3119
+1034827,2017-01-29,"Vidarbha Cricket Association Stadium, Jamtha",Home,Modern Era,1.0,T20I,140,120,116.67,12,1,140,6.95,6,0.3167
+1034829,2017-02-01,M Chinnaswamy Stadium,Home,Modern Era,1.0,T20I,186,120,155.0,23,1,186,7.697,10,0.4343
+1041615,2016-08-27,Central Broward Regional Park Stadium Turf Ground,Away,Modern Era,0.0,T20I,238,120,198.33,33,0,0,12.25,6,0.2917
+1041617,2016-08-28,Central Broward Regional Park Stadium Turf Ground,Away,Modern Era,0.0,T20I,14,12,116.67,1,0,0,7.271,10,0.4661
+1098211,2017-07-09,"Sabina Park, Kingston",Away,Modern Era,0.0,T20I,178,120,148.33,26,1,178,10.486,1,0.3604
+1109610,2017-09-06,"R.Premadasa Stadium, Khettarama",Away,Modern Era,1.0,T20I,167,116,143.97,17,0,0,8.5,7,0.3833
+1119501,2017-10-07,JSCA International Stadium Complex,Home,Modern Era,0.0,T20I,48,33,145.45,8,0,0,6.321,8,0.4018
+1119502,2017-10-10,Barsapara Cricket Stadium,Home,Modern Era,0.0,T20I,108,120,90.0,11,1,108,7.871,2,0.4194
+1119543,2018-07-03,Old Trafford,Away,Modern Era,1.0,T20I,157,110,142.73,21,0,0,7.95,8,0.4083
+1119544,2018-07-06,Sophia Gardens,Away,Modern Era,0.0,T20I,139,120,115.83,14,1,139,7.576,5,0.3729
+1119545,2018-07-08,County Ground,Away,Modern Era,1.0,T20I,200,112,178.57,30,0,0,9.9,9,0.3667
+1120093,2017-11-01,Arun Jaitley Stadium,Home,Modern Era,1.0,T20I,193,120,160.83,26,1,193,7.45,8,0.3917
+1120094,2017-11-04,Saurashtra Cricket Association Stadium,Home,Modern Era,0.0,T20I,152,120,126.67,20,0,0,9.8,2,0.2917
+1120095,2017-11-07,Greenfield International Stadium,Home,Modern Era,1.0,T20I,64,48,133.33,7,1,64,7.625,6,0.375
+1122285,2018-02-18,The Wanderers Stadium,Away,Modern Era,1.0,T20I,192,120,160.0,27,1,192,8.75,9,0.3167
+1122286,2018-02-21,SuperSport Park,Away,Modern Era,0.0,T20I,187,120,155.83,26,1,187,10.125,4,0.2679
+1122287,2018-02-24,Newlands,Away,Modern Era,1.0,T20I,164,120,136.67,17,1,164,8.25,6,0.3417
+1122729,2017-12-20,Barabati Stadium,Home,Modern Era,1.0,T20I,173,120,144.17,22,1,173,5.438,10,0.4896
+1122730,2017-12-22,Holkar Cricket Stadium,Home,Modern Era,1.0,T20I,251,120,209.17,42,1,251,9.923,9,0.2788
+1122731,2017-12-24,Wankhede Stadium,Home,Modern Era,1.0,T20I,131,116,112.93,14,0,0,6.75,7,0.3917
+1133817,2018-03-06,"R.Premadasa Stadium, Khettarama",Away,Modern Era,0.0,T20I,164,120,136.67,20,1,164,9.459,5,0.3514
+1133818,2018-03-08,"R.Premadasa Stadium, Khettarama",Away,Modern Era,1.0,T20I,136,112,121.43,16,0,0,6.95,8,0.4417
+1133820,2018-03-12,"R.Premadasa Stadium, Khettarama",Away,Modern Era,1.0,T20I,145,105,138.1,17,0,0,8.0,9,0.386
+1133821,2018-03-14,"R.Premadasa Stadium, Khettarama",Away,Modern Era,1.0,T20I,173,120,144.17,23,1,173,7.95,6,0.375
+1133823,2018-03-18,"R.Premadasa Stadium, Khettarama",Away,Modern Era,1.0,T20I,164,120,136.67,22,0,0,8.3,8,0.3083
+1140992,2018-06-27,"The Village, Malahide",Away,Modern Era,1.0,T20I,198,120,165.0,28,1,198,6.6,9,0.425
+1140993,2018-06-29,"The Village, Malahide",Away,Modern Era,1.0,T20I,201,120,167.5,24,1,201,5.6,10,0.56
+1144990,2018-11-21,"Brisbane Cricket Ground, Woolloongabba",Away,Modern Era,1.0,T20I,157,102,153.92,21,0,0,9.294,4,0.3431
+1144991,2018-11-23,Melbourne Cricket Ground,Away,Modern Era,0.0,T20I,0,0,,0,0,0,6.947,7,0.4825
+1144992,2018-11-25,Sydney Cricket Ground,Away,Modern Era,1.0,T20I,161,118,136.44,20,0,0,8.2,6,0.3083
+1153696,2019-02-06,Westpac Stadium,Away,Modern Era,0.0,T20I,132,116,113.79,18,0,0,10.95,6,0.2583
+1153697,2019-02-08,Eden Park,Away,Modern Era,1.0,T20I,154,113,136.28,17,0,0,7.9,8,0.2833
+1153698,2019-02-10,Seddon Park,Away,Modern Era,0.0,T20I,196,120,163.33,26,0,0,10.6,4,0.2333
+1157759,2018-11-04,Eden Gardens,Home,Modern Era,1.0,T20I,97,107,90.65,12,0,0,5.45,8,0.5333
+1157760,2018-11-06,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Away,Modern Era,1.0,T20I,185,120,154.17,23,1,185,6.2,9,0.5417
+1157761,2018-11-11,"MA Chidambaram Stadium, Chepauk",Home,Modern Era,1.0,T20I,175,120,145.83,25,0,0,9.05,3,0.3833
+1168247,2019-02-24,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Home,Modern Era,0.0,T20I,115,120,95.83,11,1,115,6.35,7,0.425
+1168248,2019-02-27,M.Chinnaswamy Stadium,Home,Modern Era,0.0,T20I,182,120,151.67,24,1,182,9.864,3,0.2458
+1187005,2019-09-18,"Punjab Cricket Association IS Bindra Stadium, Mohali",Home,Modern Era,1.0,T20I,144,114,126.32,16,0,0,7.45,5,0.2917
+1187006,2019-09-22,M.Chinnaswamy Stadium,Home,Modern Era,0.0,T20I,119,120,99.17,14,1,119,8.317,1,0.3465
+1187013,2019-11-03,Arun Jaitley Stadium,Home,Modern Era,0.0,T20I,144,120,120.0,18,1,144,7.897,3,0.3504
+1187014,2019-11-07,Saurashtra Cricket Association Stadium,Home,Modern Era,1.0,T20I,148,94,157.45,20,0,0,7.65,6,0.3
+1187015,2019-11-10,"Vidarbha Cricket Association Stadium, Jamtha",Home,Modern Era,1.0,T20I,172,120,143.33,22,1,172,7.448,10,0.3534
+1187018,2019-12-06,"Rajiv Gandhi International Stadium, Uppal",Home,Modern Era,1.0,T20I,186,112,166.07,24,0,0,10.35,5,0.2833
+1187019,2019-12-08,Greenfield International Stadium,Home,Modern Era,0.0,T20I,152,120,126.67,17,1,152,9.351,2,0.3964
+1187020,2019-12-11,Wankhede Stadium,Home,Modern Era,1.0,T20I,232,120,193.33,35,1,232,8.65,8,0.45
+1187677,2020-01-24,Eden Park,Away,Modern Era,1.0,T20I,193,114,169.3,23,0,0,10.15,5,0.2917
+1187678,2020-01-26,Eden Park,Away,Modern Era,1.0,T20I,128,105,121.9,13,0,0,6.6,5,0.375
+1187679,2020-01-29,Seddon Park,Away,Modern Era,1.0,T20I,194,126,153.97,22,1,174,9.333,6,0.3254
+1187680,2020-01-31,Westpac Stadium,Away,Modern Era,1.0,T20I,169,125,135.2,20,1,153,8.476,8,0.2937
+1187681,2020-02-02,Bay Oval,Away,Modern Era,1.0,T20I,156,120,130.0,18,1,156,7.8,9,0.4417
+1188621,2019-08-03,Central Broward Regional Park Stadium Turf Ground,Away,Modern Era,1.0,T20I,93,104,89.42,9,0,0,4.75,9,0.6583
+1188622,2019-08-04,Central Broward Regional Park Stadium Turf Ground,Away,Modern Era,1.0,T20I,157,120,130.83,17,1,157,6.323,4,0.5269
+1188623,2019-08-06,"Providence Stadium, Guyana",Away,Modern Era,1.0,T20I,149,115,129.57,17,0,0,7.3,6,0.4417
+1202243,2020-01-07,Holkar Cricket Stadium,Home,Modern Era,1.0,T20I,142,105,135.24,15,0,0,7.1,9,0.3917
+1202244,2020-01-10,Maharashtra Cricket Association Stadium,Home,Modern Era,1.0,T20I,195,120,162.5,26,1,195,7.768,10,0.4421
+1223952,2020-12-04,Manuka Oval,Away,Modern Era,1.0,T20I,153,120,127.5,17,1,153,7.5,7,0.3333
+1223953,2020-12-06,Sydney Cricket Ground,Away,Modern Era,1.0,T20I,191,118,161.86,22,0,0,9.7,5,0.2667
+1223954,2020-12-08,Sydney Cricket Ground,Away,Modern Era,0.0,T20I,167,120,139.17,16,0,0,9.3,5,0.275
+1243388,2021-03-12,Narendra Modi Stadium,Home,Modern Era,0.0,T20I,122,120,101.67,15,1,122,8.387,2,0.3763
+1243389,2021-03-14,Narendra Modi Stadium,Home,Modern Era,1.0,T20I,163,107,152.34,21,0,0,8.2,6,0.3333
+1243390,2021-03-16,Narendra Modi Stadium,Home,Modern Era,0.0,T20I,147,120,122.5,20,1,147,8.618,2,0.2727
+1243391,2021-03-18,Narendra Modi Stadium,Home,Modern Era,1.0,T20I,176,120,146.67,27,1,176,8.85,8,0.3667
+1243392,2021-03-20,Narendra Modi Stadium,Home,Modern Era,1.0,T20I,215,120,179.17,29,1,215,9.4,8,0.3417
+1262758,2021-07-25,"R Premadasa Stadium, Colombo",Away,Modern Era,1.0,T20I,156,120,130.0,17,1,156,6.811,10,0.4144
+1262759,2021-07-28,"R Premadasa Stadium, Colombo",Away,Modern Era,0.0,T20I,120,120,100.0,8,1,120,6.763,6,0.339
+1262760,2021-07-29,"R Premadasa Stadium, Colombo",Away,Modern Era,0.0,T20I,78,120,65.0,4,1,78,5.655,3,0.4483
+1273727,2021-10-24,Dubai International Cricket Stadium,Away,Modern Era,0.0,T20I,139,120,115.83,15,1,139,8.523,0,0.2991
+1273739,2021-10-31,Dubai International Cricket Stadium,Away,Modern Era,0.0,T20I,106,120,88.33,10,1,106,7.655,2,0.3793
+1273748,2021-11-05,Dubai International Cricket Stadium,Away,Modern Era,1.0,T20I,88,39,225.64,16,0,0,4.811,10,0.566
+1273753,2021-11-08,Dubai International Cricket Stadium,Away,Modern Era,1.0,T20I,135,92,146.74,19,0,0,6.6,8,0.45
+1276904,2022-07-07,"The Rose Bowl, Southampton",Away,Modern Era,1.0,T20I,189,120,157.5,28,1,189,7.59,10,0.4103
+1276905,2022-07-09,"Edgbaston, Birmingham",Away,Modern Era,1.0,T20I,158,120,131.67,21,1,158,7.118,10,0.4314
+1276906,2022-07-10,"Trent Bridge, Nottingham",Away,Modern Era,0.0,T20I,189,120,157.5,29,0,0,10.75,7,0.325
+1278671,2021-11-17,"Sawai Mansingh Stadium, Jaipur",Home,Modern Era,1.0,T20I,152,118,128.81,21,0,0,8.2,6,0.3333
+1278672,2021-11-19,"JSCA International Stadium Complex, Ranchi",Home,Modern Era,1.0,T20I,145,104,139.42,18,0,0,7.65,6,0.375
+1278673,2021-11-21,"Eden Gardens, Kolkata",Home,Modern Era,1.0,T20I,175,120,145.83,24,1,175,6.404,10,0.5385
+1278679,2022-02-16,"Eden Gardens, Kolkata",Home,Modern Era,1.0,T20I,158,113,139.82,21,0,0,7.85,7,0.5
+1278680,2022-02-18,"Eden Gardens, Kolkata",Home,Modern Era,1.0,T20I,167,120,139.17,25,1,167,8.9,3,0.2833
+1278681,2022-02-20,"Eden Gardens, Kolkata",Home,Modern Era,1.0,T20I,170,120,141.67,24,1,170,8.35,9,0.4667
+1278684,2022-02-24,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Home,Modern Era,1.0,T20I,193,120,160.83,23,1,193,6.85,6,0.375
+1278685,2022-02-26,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Home,Modern Era,1.0,T20I,175,103,169.9,25,0,0,9.15,5,0.3417
+1278686,2022-02-27,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Home,Modern Era,1.0,T20I,144,101,142.57,20,0,0,7.3,5,0.3833
+1278687,2022-06-09,"Arun Jaitley Stadium, Delhi",Home,Modern Era,0.0,T20I,196,120,163.33,30,1,196,11.061,3,0.3217
+1278688,2022-06-12,"Barabati Stadium, Cuttack",Home,Modern Era,0.0,T20I,141,120,117.5,17,1,141,8.127,6,0.4273
+1278689,2022-06-14,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Home,Modern Era,1.0,T20I,173,120,144.17,23,1,173,6.835,10,0.3913
+1278690,2022-06-17,"Saurashtra Cricket Association Stadium, Rajkot",Home,Modern Era,1.0,T20I,163,120,135.83,26,1,163,5.168,10,0.5347
+1278691,2022-06-19,"M Chinnaswamy Stadium, Bangalore",Home,Modern Era,1.0,T20I,26,21,123.81,3,1,26,,0,
+1298150,2022-10-23,Melbourne Cricket Ground,Away,Modern Era,1.0,T20I,149,120,124.17,15,0,0,7.95,8,0.4417
+1298157,2022-10-27,Sydney Cricket Ground,Away,Modern Era,1.0,T20I,175,120,145.83,21,1,175,6.15,9,0.4667
+1298164,2022-10-30,Perth Stadium,Away,Modern Era,0.0,T20I,125,120,104.17,14,1,125,6.966,5,0.4322
+1298169,2022-11-02,Adelaide Oval,Away,Modern Era,1.0,T20I,178,120,148.33,24,1,178,9.062,6,0.375
+1298176,2022-11-06,Melbourne Cricket Ground,Away,Modern Era,1.0,T20I,174,120,145.0,22,1,174,6.635,10,0.5192
+1298178,2022-11-10,Adelaide Oval,Away,Modern Era,0.0,T20I,165,120,137.5,22,1,165,10.625,0,0.3229
+1303307,2022-06-26,"The Village, Malahide, Dublin",Away,Modern Era,1.0,T20I,102,56,182.14,18,0,0,9.0,4,0.3333
+1303308,2022-06-28,"The Village, Malahide, Dublin",Away,Modern Era,1.0,T20I,213,120,177.5,33,1,213,11.05,5,0.35
+1317903,2022-07-29,"Brian Lara Stadium, Tarouba, Trinidad",Away,Modern Era,1.0,T20I,173,120,144.17,24,1,173,6.1,8,0.4917
+1317904,2022-08-01,"Warner Park, Basseterre, St Kitts",Away,Modern Era,0.0,T20I,130,118,110.17,12,1,130,7.293,5,0.3966
+1317905,2022-08-02,"Warner Park, Basseterre, St Kitts",Away,Modern Era,1.0,T20I,158,114,138.6,21,0,0,8.2,5,0.4
+1317906,2022-08-06,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",Away,Modern Era,1.0,T20I,178,120,148.33,22,1,178,6.887,10,0.513
+1317907,2022-08-07,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",Away,Modern Era,1.0,T20I,178,120,148.33,25,1,178,6.383,10,0.5638
+1322276,2022-11-20,"Bay Oval, Mount Maunganui",Away,Modern Era,1.0,T20I,180,120,150.0,27,1,180,6.69,10,0.4159
+1322277,2022-11-22,"McLean Park, Napier",Away,Modern Era,0.0,T20I,73,54,135.19,10,0,0,8.136,10,0.4576
+1327270,2022-08-28,Dubai International Cricket Stadium,Away,Modern Era,1.0,T20I,134,118,113.56,15,0,0,7.412,10,0.395
+1327272,2022-08-31,Dubai International Cricket Stadium,Away,Modern Era,1.0,T20I,184,120,153.33,21,1,184,7.6,5,0.4
+1327276,2022-09-04,Dubai International Cricket Stadium,Away,Modern Era,0.0,T20I,167,120,139.17,21,1,167,9.176,5,0.3025
+1327277,2022-09-06,Dubai International Cricket Stadium,Away,Modern Era,0.0,T20I,163,119,136.97,17,1,163,8.773,4,0.2605
+1327503,2022-09-20,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Home,Modern Era,0.0,T20I,204,120,170.0,29,1,204,10.914,6,0.3103
+1327504,2022-09-23,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",Home,Modern Era,1.0,T20I,86,44,195.45,14,0,0,11.25,5,0.2708
+1327505,2022-09-25,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Home,Modern Era,1.0,T20I,176,119,147.9,23,0,0,9.3,7,0.3917
+1327506,2022-09-28,"Greenfield International Stadium, Thiruvananthapuram",Home,Modern Era,1.0,T20I,104,100,104.0,14,0,0,5.3,8,0.5833
+1327507,2022-10-02,"Barsapara Cricket Stadium, Guwahati",Home,Modern Era,1.0,T20I,227,120,189.17,38,1,227,11.05,3,0.2583
+1327508,2022-10-04,"Holkar Cricket Stadium, Indore",Home,Modern Era,0.0,T20I,166,111,149.55,26,0,0,11.35,3,0.275
+1348640,2023-01-03,"Wankhede Stadium, Mumbai",Home,Modern Era,1.0,T20I,157,120,130.83,20,1,157,8.0,10,0.4333
+1348641,2023-01-05,"Maharashtra Cricket Association Stadium, Pune",Home,Modern Era,0.0,T20I,176,120,146.67,23,0,0,10.3,6,0.3167
+1348642,2023-01-07,"Saurashtra Cricket Association Stadium, Rajkot",Home,Modern Era,1.0,T20I,223,120,185.83,33,1,223,8.22,10,0.45
+1348649,2023-01-27,"JSCA International Stadium Complex, Ranchi",Home,Modern Era,0.0,T20I,145,120,120.83,22,0,0,8.8,6,0.35
+1348650,2023-01-29,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Home,Modern Era,1.0,T20I,94,119,78.99,8,0,0,4.95,8,0.4583
+1348651,2023-02-01,"Narendra Modi Stadium, Ahmedabad",Home,Modern Era,1.0,T20I,227,120,189.17,34,1,227,5.425,10,0.5479
+1381217,2023-08-03,"Brian Lara Stadium, Tarouba, Trinidad",Away,Modern Era,0.0,T20I,130,120,108.33,17,0,0,7.462,6,0.3866
+1381218,2023-08-06,"Providence Stadium, Guyana",Away,Modern Era,0.0,T20I,145,120,120.83,17,1,145,8.23,8,0.3805
+1381219,2023-08-08,"Providence Stadium, Guyana",Away,Modern Era,1.0,T20I,159,107,148.6,22,0,0,7.95,5,0.4
+1381220,2023-08-12,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",Away,Modern Era,1.0,T20I,168,102,164.71,23,0,0,8.9,8,0.3167
+1381221,2023-08-13,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",Away,Modern Era,0.0,T20I,154,120,128.33,20,1,154,9.5,2,0.3241
+1384634,2023-08-18,"Malahide, Dublin",Away,Modern Era,0.0,T20I,44,41,107.32,6,0,0,6.95,7,0.4667
+1384637,2023-08-20,"Malahide, Dublin",Away,Modern Era,1.0,T20I,177,120,147.5,23,1,177,7.6,8,0.4417
+1387598,2023-12-12,"St George's Park, Gqeberha",Away,Modern Era,1.0,T20I,173,117,147.86,26,1,173,11.133,5,0.2771
+1387599,2023-12-14,"The Wanderers Stadium, Johannesburg",Away,Modern Era,1.0,T20I,192,120,160.0,29,1,192,6.867,10,0.5301
+1389391,2023-11-23,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Home,Modern Era,1.0,T20I,195,119,163.87,30,0,0,10.4,3,0.3583
+1389392,2023-11-26,"Greenfield International Stadium, Thiruvananthapuram",Home,Modern Era,1.0,T20I,220,120,183.33,32,1,220,9.55,9,0.3583
+1389393,2023-11-28,"Barsapara Cricket Stadium, Guwahati",Home,Modern Era,0.0,T20I,199,120,165.83,32,1,199,11.25,5,0.3
+1389394,2023-12-01,"Shaheed Veer Narayan Singh International Stadium, Raipur",Away,Modern Era,1.0,T20I,164,120,136.67,21,1,164,7.7,7,0.3917
+1389395,2023-12-03,"M Chinnaswamy Stadium, Bengaluru",Home,Modern Era,1.0,T20I,154,120,128.33,20,1,154,7.7,8,0.3833
+1399113,2023-10-03,Zhejiang University of Technology Cricket Field,Away,Modern Era,1.0,T20I,194,120,161.67,29,1,194,8.95,9,0.4917
+1399117,2023-10-06,Zhejiang University of Technology Cricket Field,Away,Modern Era,1.0,T20I,95,56,169.64,15,0,0,4.8,9,0.5583
+1415708,2024-06-05,"Nassau County International Cricket Stadium, New York",Away,Modern Era,1.0,T20I,91,74,122.97,12,0,0,5.811,10,0.6105
+1415719,2024-06-09,"Nassau County International Cricket Stadium, New York",Away,Modern Era,1.0,T20I,112,114,98.25,15,1,112,5.65,7,0.4583
+1415725,2024-06-12,"Nassau County International Cricket Stadium, New York",Away,Modern Era,1.0,T20I,102,110,92.73,8,0,0,5.5,8,0.5667
+1415747,2024-06-22,"Sir Vivian Richards Stadium, North Sound, Antigua",Away,Modern Era,1.0,T20I,189,120,157.5,25,1,189,7.3,8,0.4083
+1415751,2024-06-24,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",Away,Modern Era,1.0,T20I,202,120,168.33,29,1,202,9.05,7,0.3833
+1415754,2024-06-27,"Providence Stadium, Guyana",Away,Modern Era,1.0,T20I,168,120,140.0,21,1,168,6.18,10,0.4
+1415755,2024-06-29,"Kensington Oval, Bridgetown, Barbados",Away,Modern Era,1.0,T20I,169,120,140.83,20,1,169,8.45,8,0.3667
+1420223,2024-07-06,Harare Sports Club,Away,Modern Era,0.0,T20I,98,119,82.35,14,0,0,5.75,9,0.55
+1420224,2024-07-07,Harare Sports Club,Away,Modern Era,1.0,T20I,227,120,189.17,34,1,227,7.179,10,0.4464
+1420225,2024-07-10,Harare Sports Club,Away,Modern Era,1.0,T20I,174,120,145.0,26,1,174,7.95,6,0.375
+1420226,2024-07-13,Harare Sports Club,Away,Modern Era,1.0,T20I,151,92,164.13,23,0,0,7.6,7,0.35
+1420227,2024-07-14,Harare Sports Club,Away,Modern Era,1.0,T20I,157,120,130.83,17,1,157,6.757,10,0.4775
+1439893,2024-10-06,"Shrimant Madhavrao Scindia Cricket Stadium, Gwalior",Away,Modern Era,1.0,T20I,129,71,181.69,22,0,0,6.403,10,0.4118
+1439894,2024-10-09,"Arun Jaitley Stadium, Delhi",Home,Modern Era,1.0,T20I,214,120,178.33,32,1,214,6.75,9,0.3833
+1439895,2024-10-12,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Home,Modern Era,1.0,T20I,280,120,233.33,47,1,280,8.2,7,0.4
+1439899,2025-01-22,"Eden Gardens, Kolkata",Home,Modern Era,1.0,T20I,127,77,164.94,21,0,0,6.6,10,0.475
+1439900,2025-01-25,"MA Chidambaram Stadium, Chepauk, Chennai",Home,Modern Era,1.0,T20I,155,116,133.62,23,0,0,8.25,9,0.35
+1439901,2025-01-28,"Saurashtra Cricket Association Stadium, Rajkot",Home,Modern Era,0.0,T20I,134,120,111.67,16,0,0,8.55,9,0.3583
+1439902,2025-01-31,"Maharashtra Cricket Association Stadium, Pune",Home,Modern Era,1.0,T20I,171,120,142.5,27,1,171,8.441,10,0.3898
+1439903,2025-02-02,"Wankhede Stadium, Mumbai",Home,Modern Era,1.0,T20I,240,120,200.0,36,1,240,9.238,10,0.3968
+1442987,2024-07-27,Pallekele International Cricket Stadium,Away,Modern Era,1.0,T20I,209,120,174.17,34,1,209,8.793,10,0.3879
+1442988,2024-07-28,Pallekele International Cricket Stadium,Away,Modern Era,0.0,T20I,80,39,205.13,14,0,0,8.067,9,0.4034
+1442989,2024-07-30,Pallekele International Cricket Stadium,Away,Modern Era,1.0,T20I,134,121,110.74,14,1,130,6.836,10,0.3934
+1449301,2024-11-08,"Kingsmead, Durban",Away,Modern Era,1.0,T20I,193,119,162.18,30,1,193,7.907,10,0.4766
+1449302,2024-11-10,"St George's Park, Gqeberha",Away,Modern Era,0.0,T20I,110,120,91.67,13,1,110,6.737,7,0.4298
+1449303,2024-11-13,"SuperSport Park, Centurion",Away,Modern Era,1.0,T20I,198,119,166.39,28,1,198,10.4,7,0.3
+1449304,2024-11-15,"The Wanderers Stadium, Johannesburg",Away,Modern Era,1.0,T20I,265,120,220.83,40,1,265,8.073,10,0.4727
+1478907,2025-10-29,"Manuka Oval, Canberra",Away,Modern Era,1.0,T20I,95,58,163.79,14,1,95,,0,
+1478908,2025-10-31,Melbourne Cricket Ground,Away,Modern Era,0.0,T20I,122,112,108.93,15,1,122,9.45,6,0.35
+1478909,2025-11-02,"Bellerive Oval, Hobart",Away,Modern Era,1.0,T20I,181,111,163.06,21,0,0,9.3,6,0.35
+1478910,2025-11-06,Carrara Oval,Away,Modern Era,1.0,T20I,158,120,131.67,17,1,158,6.491,10,0.4545
+1478911,2025-11-08,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Away,Modern Era,1.0,T20I,52,29,179.31,8,1,52,,0,
+1479576,2025-12-09,"Barabati Stadium, Cuttack",Home,Modern Era,1.0,T20I,162,120,135.0,23,1,162,5.92,10,0.6
+1479577,2025-12-11,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",Away,Modern Era,0.0,T20I,157,115,136.52,18,0,0,10.639,4,0.3529
+1479578,2025-12-14,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Home,Modern Era,1.0,T20I,111,95,116.84,18,0,0,5.85,10,0.4333
+1479580,2025-12-19,"Narendra Modi Stadium, Ahmedabad",Home,Modern Era,1.0,T20I,222,120,185.0,36,1,222,10.05,8,0.35
+1490234,2026-01-21,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",Home,Modern Era,1.0,T20I,223,120,185.83,35,1,223,9.5,7,0.3
+1490235,2026-01-23,"Shaheed Veer Narayan Singh International Stadium, Raipur",Away,Modern Era,0.0,T20I,194,91,213.19,32,0,0,10.4,6,0.325
+1490236,2026-01-25,"Barsapara Cricket Stadium, Guwahati",Home,Modern Era,1.0,T20I,153,60,255.0,26,0,0,7.65,9,0.375
+1490237,2026-01-28,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Home,Modern Era,0.0,T20I,162,112,144.64,24,0,0,10.75,7,0.2833
+1490238,2026-01-31,"Greenfield International Stadium, Thiruvananthapuram",Home,Modern Era,1.0,T20I,259,120,215.83,40,1,259,11.441,10,0.2881
+1496921,2025-09-10,Dubai International Cricket Stadium,Away,Modern Era,1.0,T20I,57,27,211.11,9,0,0,4.329,10,0.6582
+1496925,2025-09-14,Dubai International Cricket Stadium,Away,Modern Era,1.0,T20I,129,95,135.79,18,0,0,6.35,9,0.525
+1496931,2025-09-19,"Zayed Cricket Stadium, Abu Dhabi",Away,Modern Era,1.0,T20I,175,120,145.83,22,1,175,8.35,4,0.4333
+1496933,2025-09-21,Dubai International Cricket Stadium,Away,Modern Era,1.0,T20I,171,113,151.33,25,0,0,8.55,5,0.4167
+1496935,2025-09-24,Dubai International Cricket Stadium,Away,Modern Era,1.0,T20I,164,120,136.67,19,1,164,6.513,10,0.4872
+1496937,2025-09-26,Dubai International Cricket Stadium,Away,Modern Era,1.0,T20I,191,121,157.85,23,1,188,9.792,7,0.288
+1496938,2025-09-28,Dubai International Cricket Stadium,Away,Modern Era,1.0,T20I,148,118,125.42,17,0,0,7.617,10,0.3652
+1512721,2026-02-07,"Wankhede Stadium, Mumbai",Home,Modern Era,1.0,T20I,158,120,131.67,25,1,158,6.6,8,0.425
+1512736,2026-02-12,"Arun Jaitley Stadium, Delhi",Home,Modern Era,1.0,T20I,199,120,165.83,29,1,199,6.327,10,0.4727
+1512745,2026-02-15,"R Premadasa Stadium, Colombo",Away,Modern Era,1.0,T20I,172,120,143.33,25,1,172,6.333,10,0.5
+1512754,2026-02-18,"Narendra Modi Stadium, Ahmedabad",Home,Modern Era,1.0,T20I,185,120,154.17,24,1,185,8.8,7,0.3167
+1512761,2026-02-22,"Narendra Modi Stadium, Ahmedabad",Home,Modern Era,0.0,T20I,106,113,93.81,11,0,0,9.35,7,0.3167
+1512766,2026-02-26,"MA Chidambaram Stadium, Chepauk, Chennai",Home,Modern Era,1.0,T20I,244,120,203.33,34,1,244,8.975,6,0.3697
+1512770,2026-03-01,"Eden Gardens, Kolkata",Home,Modern Era,1.0,T20I,187,116,161.21,31,0,0,9.75,4,0.325
+1512772,2026-03-05,"Wankhede Stadium, Mumbai",Home,Modern Era,1.0,T20I,241,120,200.83,37,1,241,12.3,7,0.2667
+1512773,2026-03-08,"Narendra Modi Stadium, Ahmedabad",Home,Modern Era,1.0,T20I,241,119,202.52,36,1,241,8.368,10,0.3684
+63963,2001-12-19,"M Chinnaswamy Stadium, Bangalore",Home,Early 2000s,0.0,Test,227,567,40.04,34,0,0,2.824,10,0.736
+64047,2003-10-16,"Punjab Cricket Association Stadium, Mohali, Chandigarh",Home,Early 2000s,0.0,Test,548,1446,37.9,68,0,131,3.174,6,0.7229
+64059,2003-12-04,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Away,Early 2000s,0.0,Test,467,817,57.16,58,0,0,4.331,13,0.6908
+64062,2004-01-02,Sydney Cricket Ground,Away,Early 2000s,1.0,Test,867,1385,62.6,127,1,867,3.926,16,0.7157
+64083,2004-04-13,Rawalpindi Cricket Stadium,Away,Early 2000s,1.0,Test,571,1064,53.67,81,0,0,3.698,20,0.7753
+64100,2004-10-14,MA Chidambaram Stadium,Home,Early 2000s,0.0,Test,378,825,45.82,49,0,0,2.942,20,0.72
+64102,2004-11-03,Wankhede Stadium,Home,Early 2000s,1.0,Test,291,659,44.16,42,1,291,3.206,20,0.7329
+64109,2004-11-20,Green Park,Home,Early 2000s,0.0,Test,440,808,54.46,59,0,0,2.666,13,0.7709
+64110,2004-11-28,Eden Gardens,Home,Early 2000s,1.0,Test,491,1139,43.11,59,0,0,2.686,20,0.7672
+64111,2004-12-10,Bangabandhu National Stadium,Away,Early 2000s,1.0,Test,513,821,62.48,84,0,0,3.472,20,0.7661
+219062,2005-09-13,Queens Sports Club,Away,Early 2000s,1.0,Test,540,908,59.47,73,0,0,3.164,20,0.7773
+226363,2005-12-18,Sardar Patel Stadium,Home,Early 2000s,1.0,Test,652,1162,56.11,88,1,652,2.923,20,0.7602
+233797,2006-01-21,Iqbal Stadium,Away,Early 2000s,0.0,Test,572,1042,54.89,82,0,0,4.261,18,0.6706
+234783,2006-01-29,National Stadium,Away,Early 2000s,0.0,Test,459,677,67.8,78,0,0,4.213,17,0.6905
+238186,2006-03-09,"Punjab Cricket Association IS Bindra Stadium, Mohali",Home,Early 2000s,1.0,Test,439,776,56.57,51,0,0,2.675,20,0.7961
+239025,2006-03-01,Vidarbha C.A. Ground,Home,Early 2000s,0.0,Test,553,1291,42.84,80,0,0,3.212,13,0.7541
+239920,2006-06-02,"Antigua Recreation Ground, St John's",Away,Early 2000s,1.0,Test,722,1462,49.38,89,1,722,3.457,19,0.7795
+239921,2006-06-10,"Daren Sammy National Cricket Stadium, Gros Islet",Away,Early 2000s,1.0,Test,561,890,63.03,58,1,561,2.495,17,0.8129
+239922,2006-06-22,"Warner Park, Basseterre",Away,Early 2000s,0.0,Test,614,1152,53.3,82,0,0,3.728,16,0.6856
+239923,2006-06-30,"Sabina Park, Kingston",Away,Early 2000s,1.0,Test,351,917,38.28,50,1,351,3.121,20,0.7754
+249215,2006-12-15,The Wanderers Stadium,Away,Early 2000s,1.0,Test,440,867,50.75,68,1,440,3.237,20,0.7794
+249216,2006-12-26,Kingsmead,Away,Early 2000s,0.0,Test,389,798,48.75,60,0,0,3.726,18,0.734
+249217,2007-01-02,Newlands,Away,Early 2000s,0.0,Test,558,1172,47.61,77,1,558,3.031,15,0.7587
+258468,2007-07-19,Lord's,Away,Early 2000s,0.0,Test,443,1040,42.6,57,0,0,3.415,20,0.7596
+258469,2007-07-27,Trent Bridge,Away,Early 2000s,1.0,Test,505,1098,45.99,70,0,0,3.263,20,0.7522
+258470,2007-08-09,Kennington Oval,Away,Early 2000s,1.0,Test,778,1368,56.87,113,1,778,3.349,16,0.7748
+282691,2007-05-18,Zahur Ahmed Chowdhury Stadium,Away,Early 2000s,1.0,Test,456,737,61.87,59,1,456,3.55,12,0.7232
+282692,2007-05-25,"Shere Bangla National Stadium, Mirpur",Away,Early 2000s,1.0,Test,584,918,63.62,66,1,584,3.912,20,0.7592
+291351,2007-12-26,Melbourne Cricket Ground,Away,Early 2000s,0.0,Test,336,875,38.4,38,0,0,3.838,17,0.6737
+291352,2008-01-02,Sydney Cricket Ground,Away,Transition Era,0.0,Test,709,1255,56.49,102,0,0,3.936,17,0.6689
+291353,2008-01-16,Western Australia Cricket Association Ground,Away,Transition Era,1.0,Test,560,1072,52.24,76,1,560,4.039,20,0.7024
+291354,2008-01-24,Adelaide Oval,Away,Transition Era,1.0,Test,724,1458,49.66,70,1,724,3.11,10,0.6971
+297806,2007-11-22,Arun Jaitley Stadium,Home,Early 2000s,1.0,Test,449,839,53.52,67,0,0,2.663,20,0.7948
+297807,2007-11-30,Eden Gardens,Home,Early 2000s,1.0,Test,774,1173,65.98,109,1,774,2.936,14,0.7633
+297808,2007-12-08,M.Chinnaswamy Stadium,Home,Early 2000s,1.0,Test,831,1361,61.06,124,1,831,3.424,17,0.7641
+332911,2008-03-26,"MA Chidambaram Stadium, Chepauk",Home,Transition Era,0.0,Test,589,931,63.27,80,0,0,3.327,15,0.7161
+332912,2008-04-03,"Sardar Patel Stadium, Motera",Home,Transition Era,0.0,Test,361,686,52.62,46,1,361,3.495,7,0.6958
+332913,2008-04-11,Green Park,Home,Transition Era,1.0,Test,369,677,54.51,56,0,0,2.693,20,0.7605
+343729,2008-07-23,Sinhalese Sports Club Ground,Away,Transition Era,0.0,Test,359,707,50.78,44,0,138,3.7,6,0.6906
+343730,2008-07-31,Galle International Stadium,Away,Transition Era,1.0,Test,579,950,60.95,73,1,579,3.035,20,0.7376
+343731,2008-08-08,P Saravanamuttu Stadium,Away,Transition Era,0.0,Test,492,1007,48.86,53,1,492,3.099,12,0.7035
+345669,2008-10-09,M Chinnaswamy Stadium,Home,Transition Era,0.0,Test,465,1152,40.36,53,0,0,2.953,16,0.7263
+345670,2008-10-17,"Punjab Cricket Association Stadium, Mohali",Home,Transition Era,1.0,Test,746,1164,64.09,78,1,746,2.784,20,0.7866
+345671,2008-10-29,Feroz Shah Kotla,Home,Transition Era,1.0,Test,793,1430,55.45,102,1,793,3.243,10,0.7547
+345672,2008-11-06,"Vidarbha Cricket Association Stadium, Jamtha",Home,Transition Era,1.0,Test,705,1245,56.63,74,1,705,3.049,20,0.7261
+361050,2008-12-11,"MA Chidambaram Stadium, Chepauk",Home,Transition Era,1.0,Test,587,1009,58.18,73,0,0,2.674,19,0.72
+361051,2008-12-19,"Punjab Cricket Association Stadium, Mohali",Home,Transition Era,1.0,Test,662,1388,47.69,81,1,662,3.273,11,0.7034
+366628,2009-03-18,Seddon Park,Away,Transition Era,1.0,Test,541,948,57.07,90,0,0,3.086,20,0.7484
+366629,2009-04-03,Basin Reserve,Away,Transition Era,1.0,Test,782,1249,62.61,110,1,782,2.997,18,0.7691
+386496,2009-03-26,McLean Park,Away,Transition Era,1.0,Test,753,1643,45.83,119,0,463,4.002,9,0.6595
+430881,2009-11-16,"Sardar Patel Stadium, Motera",Home,Transition Era,1.0,Test,795,1403,56.66,106,1,795,3.75,7,0.653
+430882,2009-11-24,Green Park,Home,Transition Era,1.0,Test,623,924,67.42,63,1,623,3.331,20,0.7592
+430883,2009-12-02,Brabourne Stadium,Home,Transition Era,1.0,Test,713,981,72.68,91,0,0,3.594,20,0.7193
+434256,2010-01-17,Zahur Ahmed Chowdhury Stadium,Away,Transition Era,1.0,Test,629,947,66.42,73,1,629,3.858,20,0.7402
+434257,2010-01-24,Shere Bangla National Stadium,Away,Transition Era,1.0,Test,524,800,65.5,62,0,0,3.316,20,0.7353
+441825,2010-02-06,"Vidarbha Cricket Association Stadium, Jamtha",Home,Transition Era,0.0,Test,492,1031,47.72,71,0,288,3.17,6,0.6847
+441826,2010-02-14,Eden Gardens,Home,Transition Era,1.0,Test,607,918,66.12,77,0,0,2.707,20,0.7998
+456669,2010-07-18,Galle International Stadium,Away,Transition Era,0.0,Test,576,1084,53.14,78,0,314,4.458,8,0.6502
+456670,2010-07-26,Sinhalese Sports Club Ground,Away,Transition Era,0.0,Test,674,1352,49.85,76,0,0,3.767,7,0.6759
+456671,2010-08-03,P Sara Oval,Away,Transition Era,1.0,Test,651,1048,62.12,81,0,0,3.099,20,0.7127
+463146,2010-12-16,SuperSport Park,Away,Transition Era,0.0,Test,552,1001,55.14,80,1,552,4.763,4,0.5839
+463147,2010-12-26,Kingsmead,Away,Transition Era,1.0,Test,403,816,49.39,55,1,403,3.155,20,0.7401
+463148,2011-01-02,Newlands,Away,Transition Era,0.0,Test,494,1195,41.34,66,0,0,3.272,20,0.7005
+464526,2010-10-01,"Punjab Cricket Association Stadium, Mohali",Home,Transition Era,1.0,Test,576,1001,57.54,82,0,0,2.911,20,0.748
+464527,2010-10-09,M Chinnaswamy Stadium,Home,Transition Era,1.0,Test,645,1139,56.63,78,0,0,3.243,20,0.7286
+464531,2010-11-04,"Sardar Patel Stadium, Motera",Home,Transition Era,1.0,Test,729,1526,47.77,88,1,729,2.738,11,0.741
+464532,2010-11-12,"Rajiv Gandhi International Stadium, Uppal",Home,Transition Era,0.0,Test,526,964,54.56,69,0,0,3.16,18,0.7188
+464533,2010-11-20,"Vidarbha Cricket Association Stadium, Jamtha",Home,Transition Era,1.0,Test,544,990,54.95,72,0,0,3.123,20,0.7228
+474472,2011-07-21,Lord's,Away,Transition Era,0.0,Test,503,1154,43.59,66,0,0,3.666,14,0.6727
+474473,2011-07-29,Trent Bridge,Away,Transition Era,0.0,Test,433,833,51.98,67,0,0,4.048,20,0.6764
+474474,2011-08-10,Edgbaston,Away,Transition Era,0.0,Test,431,707,60.96,77,1,431,3.773,7,0.6811
+474475,2011-08-18,Kennington Oval,Away,Transition Era,0.0,Test,539,1110,48.56,75,0,264,3.863,6,0.6601
+489226,2011-06-20,"Sabina Park, Kingston",Away,Transition Era,1.0,Test,470,937,50.16,65,1,470,3.195,20,0.7552
+489227,2011-06-28,"Kensington Oval, Bridgetown",Away,Transition Era,1.0,Test,418,1020,40.98,42,1,418,2.697,17,0.7683
+489228,2011-07-06,"Windsor Park, Roseau",Away,Transition Era,0.0,Test,413,842,49.05,29,0,0,2.529,20,0.7652
+518950,2011-12-26,Melbourne Cricket Ground,Away,Transition Era,0.0,Test,434,852,50.94,46,0,0,3.072,20,0.7337
+518951,2012-01-03,Sydney Cricket Ground,Away,Transition Era,0.0,Test,559,1022,54.7,80,1,559,4.043,4,0.6656
+518952,2012-01-13,Western Australia Cricket Association Ground,Away,Transition Era,0.0,Test,318,743,42.8,45,1,318,4.834,10,0.6747
+518953,2012-01-24,Adelaide Oval,Away,Transition Era,0.0,Test,464,989,46.92,55,0,0,3.801,12,0.6705
+535997,2011-11-06,Feroz Shah Kotla,Home,Transition Era,1.0,Test,461,801,57.55,57,0,0,2.919,20,0.7327
+535998,2011-11-14,Eden Gardens,Home,Transition Era,1.0,Test,609,908,67.07,64,1,609,3.53,20,0.7144
+565806,2012-11-15,"Sardar Patel Stadium, Motera",Home,Transition Era,1.0,Test,589,1053,55.94,70,1,509,2.609,20,0.7604
+565807,2012-11-23,Wankhede Stadium,Home,Transition Era,0.0,Test,458,956,47.91,54,1,458,3.591,10,0.7039
+565808,2012-12-05,Eden Gardens,Home,Transition Era,0.0,Test,529,1138,46.49,83,1,529,3.139,13,0.7523
+565809,2012-12-13,"Vidarbha Cricket Association Stadium, Jamtha",Home,Transition Era,0.0,Test,314,858,36.6,29,0,0,2.275,14,0.8132
+565817,2012-08-23,"Rajiv Gandhi International Stadium, Uppal",Home,Transition Era,1.0,Test,426,807,52.79,57,1,426,2.285,20,0.809
+565818,2012-08-31,M Chinnaswamy Stadium,Home,Transition Era,1.0,Test,580,961,60.35,95,0,0,3.749,20,0.6993
+598812,2013-02-22,"MA Chidambaram Stadium, Chepauk",Home,Modern Era,1.0,Test,586,996,58.84,75,0,0,2.748,20,0.7493
+598813,2013-03-02,"Rajiv Gandhi International Stadium, Uppal",Home,Modern Era,1.0,Test,485,925,52.43,73,0,0,2.421,19,0.8048
+598814,2013-03-14,"Punjab Cricket Association Stadium, Mohali",Home,Modern Era,1.0,Test,615,994,61.87,98,0,0,2.73,20,0.7671
+598815,2013-03-22,Feroz Shah Kotla,Home,Modern Era,1.0,Test,390,610,63.93,49,0,0,2.685,20,0.7805
+648665,2013-12-18,New Wanderers Stadium,Away,Modern Era,1.0,Test,651,1342,48.51,85,1,651,3.281,17,0.7242
+648667,2013-12-26,Kingsmead,Away,Modern Era,0.0,Test,539,1185,45.49,75,1,539,3.347,10,0.7116
+667651,2014-02-06,Eden Park,Away,Modern Era,0.0,Test,526,939,56.02,72,0,0,3.73,20,0.7229
+667653,2014-02-14,Basin Reserve,Away,Modern Era,0.0,Test,579,928,62.39,86,0,0,3.318,18,0.7464
+667711,2014-07-09,Trent Bridge,Away,Modern Era,1.0,Test,815,1704,47.83,116,1,815,3.425,10,0.7445
+667713,2014-07-17,Lord's,Away,Modern Era,1.0,Test,580,1169,49.62,86,1,580,2.791,20,0.7751
+667715,2014-07-27,The Rose Bowl,Away,Modern Era,0.0,Test,459,1037,44.26,59,0,0,3.788,11,0.7064
+667717,2014-08-07,Old Trafford,Away,Modern Era,0.0,Test,297,538,55.2,46,1,297,3.479,10,0.7346
+667719,2014-08-15,Kennington Oval,Away,Modern Era,0.0,Test,220,543,40.52,29,1,220,4.172,10,0.7124
+676525,2013-11-06,Eden Gardens,Home,Modern Era,1.0,Test,437,778,56.17,52,0,0,3.042,20,0.7667
+676527,2013-11-14,Wankhede Stadium,Home,Modern Era,1.0,Test,480,648,74.07,66,0,0,3.606,20,0.7313
+754737,2014-12-09,Adelaide Oval,Away,Modern Era,0.0,Test,737,1223,60.26,91,0,0,4.27,12,0.664
+754739,2014-12-17,"Brisbane Cricket Ground, Woolloongabba",Away,Modern Era,0.0,Test,615,1045,58.85,77,1,615,4.78,16,0.675
+754741,2014-12-26,Melbourne Cricket Ground,Away,Modern Era,0.0,Test,630,1169,53.89,74,0,0,3.526,19,0.6999
+754743,2015-01-06,Sydney Cricket Ground,Away,Modern Era,0.0,Test,698,1511,46.19,86,0,0,4.275,13,0.6745
+870729,2015-06-10,Khan Shaheb Osman Ali Stadium,Away,Modern Era,1.0,Test,456,621,73.43,55,1,456,3.452,10,0.7629
+895773,2015-08-12,Galle International Stadium,Away,Modern Era,0.0,Test,459,1006,45.63,49,0,0,4.167,20,0.6856
+895775,2015-08-20,P Sara Oval,Away,Modern Era,1.0,Test,682,1230,55.45,67,1,682,2.901,20,0.7484
+895777,2015-08-28,Sinhalese Sports Club Ground,Away,Modern Era,1.0,Test,558,1057,52.79,65,1,558,3.415,20,0.7427
+903603,2015-11-05,"Punjab Cricket Association Stadium, Mohali",Home,Modern Era,1.0,Test,381,861,44.25,47,1,381,2.717,20,0.7481
+903605,2015-11-14,M Chinnaswamy Stadium,Home,Modern Era,0.0,Test,73,132,55.3,12,0,0,3.627,10,0.726
+903607,2015-11-25,"Vidarbha Cricket Association Stadium, Jamtha",Home,Modern Era,1.0,Test,351,749,46.86,44,1,351,2.146,20,0.8062
+903609,2015-12-03,Feroz Shah Kotla,Home,Modern Era,1.0,Test,585,1308,44.72,69,1,585,1.37,20,0.8832
+1022593,2016-07-21,"Sir Vivian Richards Stadium, North Sound",Away,Modern Era,1.0,Test,552,971,56.85,61,1,552,2.816,20,0.802
+1022595,2016-07-30,"Sabina Park, Kingston",Away,Modern Era,0.0,Test,473,1027,46.06,59,0,0,3.732,16,0.7412
+1022597,2016-08-09,"Darren Sammy National Cricket Stadium, Gros Islet",Away,Modern Era,1.0,Test,534,1066,50.09,43,1,534,2.203,20,0.817
+1022599,2016-08-18,"Queen's Park Oval, Port of Spain",Away,Modern Era,0.0,Test,0,0,,0,0,0,2.818,2,0.7955
+1030213,2016-09-22,Green Park,Home,Modern Era,1.0,Test,680,1226,55.46,93,1,680,2.716,20,0.7691
+1030215,2016-09-30,Eden Gardens,Home,Modern Era,1.0,Test,547,1090,50.18,83,1,547,2.989,20,0.7516
+1030217,2016-10-08,Holkar Cricket Stadium,Home,Modern Era,1.0,Test,757,1308,57.87,82,1,757,3.307,20,0.762
+1034809,2016-11-09,Saurashtra Cricket Association Stadium,Home,Modern Era,0.0,Test,634,1287,49.26,81,0,0,3.391,13,0.6887
+1034811,2016-11-17,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Home,Modern Era,1.0,Test,635,1157,54.88,72,1,635,2.063,20,0.8085
+1034813,2016-11-26,"Punjab Cricket Association IS Bindra Stadium, Mohali",Home,Modern Era,1.0,Test,499,952,52.42,70,0,0,2.818,20,0.7466
+1034815,2016-12-08,Wankhede Stadium,Home,Modern Era,1.0,Test,615,1095,56.16,73,0,0,3.205,20,0.6867
+1034817,2016-12-16,"MA Chidambaram Stadium, Chepauk",Home,Modern Era,1.0,Test,752,1144,65.73,80,0,0,2.788,20,0.7378
+1041761,2017-02-09,"Rajiv Gandhi International Stadium, Uppal",Home,Modern Era,1.0,Test,832,1170,71.11,93,1,832,2.794,20,0.7905
+1062573,2017-02-23,Maharashtra Cricket Association Stadium,Home,Modern Era,0.0,Test,199,444,44.82,24,0,0,2.997,20,0.7544
+1062574,2017-03-04,M Chinnaswamy Stadium,Home,Modern Era,1.0,Test,432,1011,42.73,41,1,432,2.451,20,0.7505
+1062575,2017-03-16,JSCA International Stadium Complex,Home,Modern Era,0.0,Test,584,1260,46.35,63,0,0,2.758,16,0.7453
+1062576,2017-03-25,Himachal Pradesh Cricket Association Stadium,Home,Modern Era,1.0,Test,409,852,48.0,57,0,0,3.07,20,0.7424
+1109602,2017-07-26,Galle International Stadium,Away,Modern Era,1.0,Test,820,1117,73.41,95,1,820,3.451,17,0.7178
+1109603,2017-08-03,Sinhalese Sports Club Ground,Away,Modern Era,1.0,Test,608,948,64.14,66,1,608,3.417,20,0.7247
+1109604,2017-08-12,Pallekele International Cricket Stadium,Away,Modern Era,1.0,Test,463,735,62.99,48,1,463,2.817,20,0.7697
+1119549,2018-08-01,Edgbaston,Away,Modern Era,0.0,Test,414,782,52.94,55,0,0,3.273,20,0.7091
+1119550,2018-08-09,Lord's,Away,Modern Era,0.0,Test,219,494,44.33,31,1,219,4.491,7,0.6408
+1119551,2018-08-18,Trent Bridge,Away,Modern Era,1.0,Test,651,1229,52.97,89,1,651,3.339,20,0.7776
+1119552,2018-08-30,The Rose Bowl,Away,Modern Era,0.0,Test,438,927,47.25,46,0,0,2.991,20,0.7502
+1119553,2018-09-07,Kennington Oval,Away,Modern Era,0.0,Test,597,1137,52.51,84,0,0,3.22,18,0.7008
+1122276,2018-01-05,Newlands,Away,Modern Era,0.0,Test,329,698,47.13,48,0,0,3.633,20,0.7307
+1122277,2018-01-13,SuperSport Park,Away,Modern Era,0.0,Test,441,855,51.58,56,0,0,2.888,20,0.7484
+1122278,2018-01-24,The Wanderers Stadium,Away,Modern Era,1.0,Test,379,941,40.28,48,1,379,2.663,20,0.7799
+1122723,2017-11-16,Eden Gardens,Home,Modern Era,1.0,Test,502,889,56.47,70,1,502,3.349,17,0.7458
+1122724,2017-11-24,"Vidarbha Cricket Association Stadium, Jamtha",Home,Modern Era,1.0,Test,601,1057,56.86,56,0,0,2.883,20,0.7604
+1122725,2017-12-02,Arun Jaitley Stadium,Home,Modern Era,1.0,Test,767,1081,70.95,80,1,767,2.818,16,0.7708
+1144993,2018-12-06,Adelaide Oval,Away,Modern Era,1.0,Test,520,1169,44.48,50,1,520,2.407,20,0.7735
+1144994,2018-12-14,Perth Stadium,Away,Modern Era,0.0,Test,396,971,40.78,43,0,0,2.819,20,0.7556
+1144995,2018-12-26,Melbourne Cricket Ground,Away,Modern Era,1.0,Test,511,1243,41.11,51,1,511,2.635,20,0.7751
+1144996,2019-01-03,Sydney Cricket Ground,Away,Modern Era,1.0,Test,602,1004,59.96,67,1,602,2.812,10,0.7764
+1157752,2018-10-04,Saurashtra Cricket Association Stadium,Home,Modern Era,1.0,Test,635,899,70.63,75,1,635,3.815,20,0.7352
+1157753,2018-10-12,"Rajiv Gandhi International Stadium, Uppal",Home,Modern Era,1.0,Test,414,737,56.17,50,0,0,2.963,20,0.7497
+1187007,2019-10-02,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Home,Modern Era,1.0,Test,807,1218,66.26,116,1,807,3.187,20,0.7626
+1187008,2019-10-10,Maharashtra Cricket Association Stadium,Home,Modern Era,1.0,Test,584,939,62.19,82,1,584,2.682,20,0.8044
+1187009,2019-10-19,JSCA International Stadium Complex,Home,Modern Era,1.0,Test,480,699,68.67,70,1,480,2.827,21,0.8003
+1187016,2019-11-14,Holkar Cricket Stadium,Home,Modern Era,1.0,Test,486,684,71.05,69,0,0,2.84,20,0.7679
+1187017,2019-11-22,Eden Gardens,Home,Modern Era,1.0,Test,325,538,60.41,45,0,0,4.2,21,0.7163
+1187685,2020-02-21,Basin Reserve,Away,Modern Era,0.0,Test,350,895,39.11,46,1,350,3.5,10,0.7255
+1187686,2020-02-29,Hagley Oval,Away,Modern Era,0.0,Test,330,654,50.46,48,1,330,3.362,13,0.7511
+1188628,2019-08-22,"Sir Vivian Richards Stadium, Antigua",Away,Modern Era,1.0,Test,611,1255,48.69,60,1,611,3.183,20,0.7611
+1188629,2019-08-30,"Sabina Park, Jamaica",Away,Modern Era,1.0,Test,539,1169,46.11,74,1,539,3.056,21,0.7819
+1223869,2020-12-17,Adelaide Oval,Away,Modern Era,0.0,Test,262,687,38.14,26,1,262,3.048,12,0.7496
+1223870,2020-12-26,Melbourne Cricket Ground,Away,Modern Era,1.0,Test,374,786,47.58,40,0,0,2.249,20,0.797
+1223871,2021-01-07,Sydney Cricket Ground,Away,Modern Era,0.0,Test,558,1390,40.14,79,0,0,3.374,16,0.7284
+1223872,2021-01-15,Brisbane Cricket Ground,Away,Modern Era,1.0,Test,622,1252,49.68,76,0,0,3.468,20,0.7411
+1239543,2021-08-04,"Trent Bridge, Nottingham",Away,Modern Era,0.0,Test,308,593,51.94,46,0,0,3.208,20,0.7525
+1239544,2021-08-12,"Lord's, London",Away,Modern Era,1.0,Test,632,1414,44.7,68,1,632,2.844,20,0.7644
+1239545,2021-08-25,"Headingley, Leeds",Away,Modern Era,0.0,Test,325,841,38.64,46,1,325,3.264,10,0.7481
+1239546,2021-09-02,"Kennington Oval, London",Away,Modern Era,1.0,Test,640,1259,50.83,89,1,640,2.836,20,0.7684
+1243384,2021-02-05,MA Chidambaram Stadium,Home,Modern Era,0.0,Test,509,924,55.09,75,0,0,3.194,20,0.7345
+1243385,2021-02-13,MA Chidambaram Stadium,Home,Modern Era,1.0,Test,595,1090,54.59,78,1,595,2.61,20,0.765
+1243386,2021-02-24,Narendra Modi Stadium,Home,Modern Era,1.0,Test,180,366,49.18,27,0,0,2.433,20,0.7773
+1243387,2021-03-04,Narendra Modi Stadium,Home,Modern Era,1.0,Test,346,688,50.29,46,0,0,2.602,20,0.7666
+1249875,2021-06-18,"The Rose Bowl, Southampton",Away,Modern Era,0.0,Test,371,991,37.44,38,1,371,2.68,12,0.8002
+1277079,2021-12-26,"SuperSport Park, Centurion",Away,Modern Era,1.0,Test,455,936,48.61,75,1,455,2.973,20,0.7791
+1277080,2022-01-03,"The Wanderers Stadium, Johannesburg",Away,Modern Era,0.0,Test,419,740,56.62,68,1,419,3.204,13,0.7534
+1277081,2022-01-11,"Newlands, Cape Town",Away,Modern Era,0.0,Test,380,870,43.68,54,1,380,3.011,13,0.7574
+1278674,2021-11-25,"Green Park, Kanpur",Home,Modern Era,1.0,Test,563,1153,48.83,72,1,563,1.917,19,0.8261
+1278675,2021-12-03,"Wankhede Stadium, Mumbai",Home,Modern Era,1.0,Test,573,1079,53.1,81,1,573,2.705,20,0.8071
+1278682,2022-03-04,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Home,Modern Era,1.0,Test,546,776,70.36,68,1,546,2.816,20,0.8107
+1278683,2022-03-12,"M Chinnaswamy Stadium, Bengaluru",Home,Modern Era,1.0,Test,528,768,68.75,74,1,528,3.325,20,0.743
+1320741,2022-07-01,"Edgbaston, Birmingham",Away,Modern Era,0.0,Test,602,1000,60.2,87,1,602,4.791,13,0.6405
+1340848,2022-12-14,"Zahur Ahmed Chowdhury Stadium, Chattogram",Away,Modern Era,1.0,Test,650,1173,55.41,78,1,650,2.802,20,0.7793
+1340849,2022-12-22,"Shere Bangla National Stadium, Mirpur",Away,Modern Era,1.0,Test,452,801,56.43,57,0,0,3.177,20,0.7341
+1348652,2023-02-09,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",Home,Modern Era,1.0,Test,390,837,46.59,51,0,0,2.782,20,0.801
+1348653,2023-02-17,"Arun Jaitley Stadium, Delhi",Home,Modern Era,1.0,Test,361,661,54.61,47,0,0,3.423,20,0.7299
+1348654,2023-03-01,"Holkar Cricket Stadium, Indore",Home,Modern Era,0.0,Test,265,563,47.07,30,1,265,2.885,11,0.7238
+1348655,2023-03-09,"Narendra Modi Stadium, Ahmedabad",Home,Modern Era,0.0,Test,549,1073,51.16,53,0,0,2.668,12,0.7671
+1358412,2023-06-07,"Kennington Oval, London",Away,Modern Era,0.0,Test,488,799,61.08,71,0,0,3.587,18,0.7217
+1381212,2023-07-12,"Windsor Park, Roseau, Dominica",Away,Modern Era,1.0,Test,397,914,43.44,39,0,0,2.435,20,0.7971
+1381213,2023-07-20,"Queen's Park Oval, Port of Spain, Trinidad",Away,Modern Era,1.0,Test,601,912,65.9,71,1,601,2.242,12,0.8262
+1387603,2023-12-26,"SuperSport Park, Centurion",Away,Modern Era,0.0,Test,355,611,58.1,60,1,355,3.755,9,0.7316
+1387604,2024-01-03,"Newlands, Cape Town",Away,Modern Era,1.0,Test,199,281,70.82,33,0,0,3.839,20,0.7368
+1389399,2024-01-25,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Home,Modern Era,0.0,Test,603,1142,52.8,74,0,0,3.996,20,0.64
+1389400,2024-02-02,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Home,Modern Era,1.0,Test,646,1143,56.52,81,1,646,4.354,20,0.6844
+1389401,2024-02-15,"Saurashtra Cricket Association Stadium, Rajkot",Home,Modern Era,1.0,Test,855,1373,62.27,109,1,855,3.934,20,0.7173
+1389402,2024-02-23,"JSCA International Stadium Complex, Ranchi",Home,Modern Era,1.0,Test,471,986,47.77,50,0,0,3.139,20,0.709
+1389403,2024-03-07,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Home,Modern Era,1.0,Test,471,745,63.22,67,0,0,3.902,20,0.6961
+1426555,2024-11-22,Perth Stadium,Away,Modern Era,1.0,Test,571,1105,51.67,59,1,571,3.109,20,0.7424
+1426556,2024-12-06,Adelaide Oval,Away,Modern Era,0.0,Test,329,486,67.7,47,1,329,3.919,10,0.7229
+1426557,2024-12-14,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Away,Modern Era,0.0,Test,254,486,52.26,24,0,0,3.951,17,0.6745
+1426558,2024-12-26,Melbourne Cricket Ground,Away,Modern Era,0.0,Test,501,1192,42.03,50,0,0,3.431,20,0.7141
+1426559,2025-01-03,Sydney Cricket Ground,Away,Modern Era,0.0,Test,308,673,45.77,39,1,308,4.397,14,0.6432
+1439891,2024-09-19,"MA Chidambaram Stadium, Chepauk, Chennai",Home,Modern Era,1.0,Test,628,932,67.38,87,1,628,3.503,20,0.7256
+1439892,2024-09-27,"Green Park, Kanpur",Home,Modern Era,1.0,Test,378,312,121.15,55,0,0,3.124,20,0.7788
+1439896,2024-10-16,"M Chinnaswamy Stadium, Bengaluru",Home,Modern Era,0.0,Test,486,785,61.91,67,1,486,4.297,12,0.6867
+1439897,2024-10-24,"Maharashtra Cricket Association Stadium, Pune",Home,Modern Era,0.0,Test,382,635,60.16,47,0,0,3.454,20,0.6753
+1439898,2024-11-01,"Wankhede Stadium, Mumbai",Home,Modern Era,0.0,Test,369,533,69.23,45,0,0,3.668,20,0.6652
+1448349,2025-06-20,"Headingley, Leeds",Away,Modern Era,0.0,Test,786,1255,62.63,114,1,786,4.588,15,0.6359
+1448350,2025-07-02,"Edgbaston, Birmingham",Away,Modern Era,1.0,Test,982,1404,69.94,131,1,982,4.3,20,0.6734
+1448351,2025-07-10,"Lord's, London",Away,Modern Era,0.0,Test,527,1165,45.24,65,0,0,3.315,20,0.6994
+1448352,2025-07-23,"Old Trafford, Manchester",Away,Modern Era,1.0,Test,729,1543,47.25,84,1,729,4.257,10,0.6288
+1448353,2025-07-31,"Kennington Oval, London",Away,Modern Era,1.0,Test,556,946,58.77,77,1,556,4.498,19,0.6484
+1479569,2025-10-02,"Narendra Modi Stadium, Ahmedabad",Home,Modern Era,1.0,Test,431,768,56.12,53,0,0,3.448,20,0.7407
+1479570,2025-10-10,"Arun Jaitley Stadium, Delhi",Home,Modern Era,1.0,Test,640,1018,62.87,87,1,516,3.179,20,0.7251
+1479571,2025-11-14,"Eden Gardens, Kolkata",Home,Modern Era,0.0,Test,263,584,45.03,34,0,0,2.862,20,0.7232
+1479572,2025-11-22,"Barsapara Cricket Stadium, Guwahati",Home,Modern Era,0.0,Test,316,886,35.67,35,0,0,3.261,15,0.7068
